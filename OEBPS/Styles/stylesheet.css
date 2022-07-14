@@ -30,6 +30,9 @@ body {
 }
 span.yinwen {
   font-size: small;
+  color: #795548;
+  padding: 0 3px;
+  border-radius: 3px;
 }
 .section {
   font-weight: bold;
