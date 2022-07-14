@@ -1,15 +1,19 @@
 <?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <dc:title>資治通鑑</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="司馬光">司馬光</dc:creator>
+    <dc:title>資治通鑑（全二十冊）</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="編著, 司馬光 &amp; 音注, 胡三省 &amp; 校點, 標點資治通鑒小組">[宋] 司馬光 編著</dc:creator>
+    <dc:creator opf:role="aut">[元] 胡三省 音注</dc:creator>
+    <dc:creator opf:role="aut">標點資治通鑒小組 校點</dc:creator>
     <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:publisher>中华书局</dc:publisher>
     <dc:identifier id="uuid_id" opf:scheme="uuid">bba97d0d-0709-45a9-9636-335a0a414beb</dc:identifier>
-    <dc:date>2011-07-31T16:00:00+00:00</dc:date>
+    <dc:date>1956-05-31T16:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
-&lt;p&gt;《资治通鉴（繁体竖排版）（套装全20册）》是中国古代著名的编年体史书，记载了战国至五代期间1300多年的历史，向为史学界所推崇，在收集史料、考订事实、编排年月及文字剪裁润色等方面都代表了古代编年体史书的最高成就，使古代历史研究的基本典籍。点校本以清朝胡克家翻刻的元刊胡三省注本为底本，是史学界通行的整理定本。&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;《资治通鉴（全20册）》是一部集体编写的历史巨著，主编是司马光，协修是刘恕、刘攽和范祖禹，司马光的儿子司马康担任检阅文字的工作。司马光原欲定名为《通志》，神宗即位后，把《通志》改名为《资治通鉴》，意思是“鉴于往事，有资于治道”。《资治通鉴》上起周威烈王二十三年（前400年），下止五代后周显德六年（959年），共1362年的历史，分为294卷，共计300多万字；另外《目录》30卷，《考异》30卷。编成这部巨著共花了19年的时间。司马光是为了巩固当时的封建政权，才编写《资治通鉴》，这就决定了此书的内容主要是政治史。他把历史上的君主，根据他们的才能分为创业、守成、陵夷、中兴、乱亡五类。《资治通鉴》都作了一定程度的揭露和谴责，以为后世君主的鉴戒。《资治通鉴》还有许多很有价值的关于军事、经济、文化、学术思想、史学等方面的历史记载。《资治通鉴》所搜集的材料十分丰富，据估计，《资治通鉴》所引之书多达300多种。《资治通鉴》是我国一部极为重要的编年史，不仅为封建统治阶级提供了统治经验，同时也具有很高的史料价值。全书体例严谨，前后脉络分明，语言文字也极为简练。这些对后世史学都产生了极大的影响。&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:date opf:event="modification">2022-06-10</dc:date>
+    <dc:subject>司马光</dc:subject>
+    <dc:subject>史书</dc:subject>
     <dc:subject>资治通鉴</dc:subject>
     <dc:subject>中华书局</dc:subject>
     <dc:subject>中国历史</dc:subject>
@@ -32,14 +36,14 @@
     <dc:subject>国学典藏</dc:subject>
     <dc:subject>選本</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">33763708-d153-4e8a-888a-5e3c90cde553</dc:identifier>
-    <dc:identifier opf:scheme="NEW_DOUBAN">6790302</dc:identifier>
-    <dc:identifier opf:scheme="ISBN">9787101081121</dc:identifier>
+    <dc:identifier opf:scheme="calibre">5dc7f4ed-fbdb-4aff-9501-91dc71236fc5</dc:identifier>
+    <dc:identifier opf:scheme="NEW_DOUBAN">1072295</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9787101001839</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
-    <meta content="資治通鑑" name="calibre:title_sort"/>
+    <meta content="資治通鑑（全二十冊）" name="calibre:title_sort"/>
     <meta name="cover" content="cover"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;司馬光&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{&quot;[宋] 司馬光 編著&quot;: &quot;&quot;, &quot;[元] 胡三省 音注&quot;: &quot;&quot;, &quot;標點資治通鑒小組 校點&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta content="国学典藏" name="calibre:series"/>
     <meta content="1.0" name="calibre:series_index"/>
     <meta content="10.0" name="calibre:rating"/>
