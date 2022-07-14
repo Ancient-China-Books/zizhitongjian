@@ -27,8 +27,6 @@ body {
   color: #069;
   font-weight: normal;
   font-size: 85%;
-  -webkit-margin-start: 0.5em;
-  -webkit-margin-end: 0.5em;
 }
 span.yinwen {
   font-size: small;
@@ -49,15 +47,8 @@ h5 {
 }
 .biaozhusup::before {
   content: attr(data-rel);
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-  display: inline-block;
-  min-width: 12px;
-  text-indent: 0;
-  text-align: center;
   line-height: 130%;
-  margin: 0 auto;
+  margin: 0;
 }
 .jiaozhusup {
   font-size: 12px;
@@ -68,16 +59,9 @@ h5 {
   content: "";
   background-color: #629fd1;
   color: white;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  border-radius: 3px;
-  padding: 0 3px;
-  display: inline-block;
-  min-width: 12px;
   text-indent: 0;
-  text-align: center;
   line-height: 120%;
-  margin: 0 auto;
+  margin: 0;
 }
 hr {
   display: block;
