@@ -76,4 +76,16 @@ h1 {
   margin: 0;
   padding: 0;
 }
-
+table {
+  font-size: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  color: #666;
+}
+table td {
+  font-size: 90%;
+  vertical-align: top;
+  padding: 5px;
+  border: #b9ccf9 1px solid;
+  letter-spacing: 0;
+}
