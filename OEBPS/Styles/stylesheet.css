@@ -1,7 +1,7 @@
 body {
   font-family: "Noto Serif TC Medium", serif;
   letter-spacing: 1px;
-  font-size: 100%;
+  font-size: 110%;
   line-height: 1.7;
   line-break: auto;
   text-align: left;
@@ -15,11 +15,9 @@ body {
   -webkit-line-break: auto;
 }
 .em2 {
-  font-size: 110%;
   font-weight: normal;
 }
 .margin2 {
-  font-size: 110%;
   font-weight: normal;
   padding-left: 2em;
 }
