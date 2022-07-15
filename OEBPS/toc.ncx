@@ -1,4 +1,4 @@
-i<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
   <head>
     <meta name="dtb:uid" content="bba97d0d-0709-45a9-9636-335a0a414beb"/>
@@ -1824,12 +1824,6 @@ i<?xml version='1.0' encoding='utf-8'?>
       <content src="Text/6440.html#toc_1"/>
     </navPoint>
     <navPoint id="num_303" playOrder="303">
-      <navLabel>
-        <text>標點本勘誤表</text>
-      </navLabel>
-      <content src="Text/6555.html#toc_1"/>
-    </navPoint>
-    <navPoint id="num_304" playOrder="304">
       <navLabel>
         <text>重刊元本資治通鑑後序</text>
       </navLabel>
