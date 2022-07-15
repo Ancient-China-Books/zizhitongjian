@@ -50,7 +50,6 @@
     <meta content="1.9.10" name="Sigil version"/>
   </metadata>
   <manifest>
-    <item id="id" href="../toc.xhtml" media-type="application/xhtml+xml"/>
     <item id="id0" href="Text/5281.html" media-type="application/xhtml+xml"/>
     <item id="id1" href="Text/5282.html" media-type="application/xhtml+xml"/>
     <item id="id2" href="Text/5381.html" media-type="application/xhtml+xml"/>
@@ -673,7 +672,6 @@
     <itemref idref="id305"/>
   </spine>
   <guide>
-    <reference type="cover" title="Cover" href="../toc.xhtml"/>
     <reference type="toc" title="Table of Contents" href="../toc.xhtml#calibre_generated_inline_toc"/>
   </guide>
 </package>
