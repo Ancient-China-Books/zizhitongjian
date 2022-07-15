@@ -1,7 +1,9 @@
 body {
-  line-height: 170%;
-  word-spacing: 0;
-  letter-spacing: 0;
+  font-family: "Noto Serif TC Medium", serif;
+  letter-spacing: 1px;
+  font-size: 100%;
+  line-height: 1.7;
+  line-break: auto;
   text-align: left;
   writing-mode: horizontal-tb;
   -webkit-writing-mode: horizontal-tb;
@@ -10,7 +12,7 @@ body {
   -webkit-margin-end: 0.8em;
   -webkit-margin-before: 0.2em;
   -webkit-margin-after: 0.2em;
-  font-family: "Noto Serif TC Medium";
+  -webkit-line-break: auto;
 }
 .em2 {
   font-size: 110%;
@@ -89,4 +91,23 @@ table td {
   padding: 5px;
   border: #b9ccf9 1px solid;
   letter-spacing: 0;
+}
+#text {
+  text-align: justify;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-device-width: 480px) {
+  #text {
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 87.36%;
+    padding-left: 1.82%;
+    padding-right: 1.82%;
+  }
+  #text p {
+    padding: 15px;
+  }
 }
