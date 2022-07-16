@@ -671,7 +671,4 @@
     <itemref idref="id304"/>
     <itemref idref="id305"/>
   </spine>
-  <guide>
-    <reference type="toc" title="Table of Contents" href="../toc.xhtml#calibre_generated_inline_toc"/>
-  </guide>
 </package>
