@@ -360,6 +360,7 @@
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="noto" href="Fonts/NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
