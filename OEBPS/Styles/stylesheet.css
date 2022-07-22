@@ -110,3 +110,10 @@ table td {
   font-size: 0.65em;
   font-weight: normal;
 }
+.yeartoc p:before{
+  content: '';
+  display: block;
+  margin-top: -15px;
+  height: 15px;
+  visibility: hidden;
+}
