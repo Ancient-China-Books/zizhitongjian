@@ -5,7 +5,7 @@
     <dc:creator opf:role="aut" opf:file-as="編著, 司馬光 &amp; 音注, 胡三省 &amp; 校點, 標點資治通鑒小組">[宋] 司馬光 編著</dc:creator>
     <dc:creator opf:role="aut">[元] 胡三省 音注</dc:creator>
     <dc:creator opf:role="aut">標點資治通鑒小組 校點</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:role="bkp">calibre (6.1.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:publisher>中华书局</dc:publisher>
     <dc:identifier id="uuid_id" opf:scheme="uuid">bba97d0d-0709-45a9-9636-335a0a414beb</dc:identifier>
     <dc:date>1956-05-31T16:00:00+00:00</dc:date>
@@ -36,7 +36,7 @@
     <dc:subject>国学典藏</dc:subject>
     <dc:subject>選本</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">5dc7f4ed-fbdb-4aff-9501-91dc71236fc5</dc:identifier>
+    <dc:identifier opf:scheme="calibre">ae018820-87e1-4d06-9c3c-cf9ce2f244d5</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">1072295</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101001839</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
@@ -363,9 +363,9 @@
     <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="noto" href="Fonts/NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="id" href="toc.ncx.1" media-type="application/octet-stream"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
-    <itemref idref="id"/>
     <itemref idref="id0"/>
     <itemref idref="id1"/>
     <itemref idref="id2"/>
