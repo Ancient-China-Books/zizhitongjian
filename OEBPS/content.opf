@@ -356,6 +356,7 @@
     <item id="id303" href="Text/6555.html" media-type="application/xhtml+xml"/>
     <item id="id304" href="Text/6558.html" media-type="application/xhtml+xml"/>
     <item id="id305" href="Text/6559.html" media-type="application/xhtml+xml"/>
+    <item id="idtoc1" href="Text/toc.1.html" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
@@ -671,5 +672,6 @@
     <itemref idref="id303"/>
     <itemref idref="id304"/>
     <itemref idref="id305"/>
+    <itemref idref="idtoc1"/>
   </spine>
 </package>
