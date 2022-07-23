@@ -363,7 +363,6 @@
     <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="noto" href="Fonts/NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
-    <item id="id" href="toc.ncx.1" media-type="application/octet-stream"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
     <itemref idref="id0"/>
