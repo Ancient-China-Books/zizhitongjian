@@ -1,1839 +1,1841 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
-  <head>
-    <meta name="dtb:uid" content="bba97d0d-0709-45a9-9636-335a0a414beb"/>
-    <meta name="dtb:depth" content="2"/>
-    <meta name="dtb:generator" content="calibre (6.1.0)"/>
-    <meta name="dtb:totalPageCount" content="0"/>
-    <meta name="dtb:maxPageNumber" content="0"/>
-  </head>
-  <docTitle>
-    <text>資治通鑑</text>
-  </docTitle>
-  <navMap>
-    <navPoint id="num_1" playOrder="1">
-      <navLabel>
-        <text>胡刻通鑑正文校宋記述略</text>
-      </navLabel>
-      <content src="Text/6445.html"/>
-    </navPoint>
-    <navPoint id="num_2" playOrder="2">
-      <navLabel>
-        <text>胡三省新注資治通鑑序</text>
-      </navLabel>
-      <content src="Text/5281.html"/>
-    </navPoint>
-    <navPoint id="num_3" playOrder="3">
-      <navLabel>
-        <text>王磐興文署新刊資治通鑑序</text>
-      </navLabel>
-      <content src="Text/6443.html"/>
-    </navPoint>
-    <navPoint id="num_4" playOrder="4">
-      <navLabel>
-        <text>宋神宗資治通鑑序</text>
-      </navLabel>
-      <content src="Text/6442.html"/>
-    </navPoint>
-    <navPoint id="num_5" playOrder="5">
-      <navLabel>
-        <text>卷第一·周紀一·威烈王·安王·烈王</text>
-      </navLabel>
-      <content src="Text/5282.html"/>
-    </navPoint>
-    <navPoint id="num_6" playOrder="6">
-      <navLabel>
-        <text>卷第二·周紀二·顯王</text>
-      </navLabel>
-      <content src="Text/5381.html"/>
-    </navPoint>
-    <navPoint id="num_7" playOrder="7">
-      <navLabel>
-        <text>卷第三·周紀三·愼靚王·赧王上</text>
-      </navLabel>
-      <content src="Text/5382.html"/>
-    </navPoint>
-    <navPoint id="num_8" playOrder="8">
-      <navLabel>
-        <text>卷第四·周紀四·赧王中</text>
-      </navLabel>
-      <content src="Text/5383.html"/>
-    </navPoint>
-    <navPoint id="num_9" playOrder="9">
-      <navLabel>
-        <text>卷第五·周紀五·赧王下</text>
-      </navLabel>
-      <content src="Text/5384.html"/>
-    </navPoint>
-    <navPoint id="num_10" playOrder="10">
-      <navLabel>
-        <text>卷第六·秦紀一·昭襄王·孝文王·莊襄王·始皇帝上</text>
-      </navLabel>
-      <content src="Text/5385.html"/>
-    </navPoint>
-    <navPoint id="num_11" playOrder="11">
-      <navLabel>
-        <text>卷第七·秦紀二·始皇帝下·二世皇帝上</text>
-      </navLabel>
-      <content src="Text/5386.html"/>
-    </navPoint>
-    <navPoint id="num_12" playOrder="12">
-      <navLabel>
-        <text>卷第八·秦紀三·二世皇帝下</text>
-      </navLabel>
-      <content src="Text/5387.html"/>
-    </navPoint>
-    <navPoint id="num_13" playOrder="13">
-      <navLabel>
-        <text>卷第九·漢紀一·太祖高皇帝上之上</text>
-      </navLabel>
-      <content src="Text/5388.html"/>
-    </navPoint>
-    <navPoint id="num_14" playOrder="14">
-      <navLabel>
-        <text>卷第一十·漢紀二·太祖高皇帝上之下</text>
-      </navLabel>
-      <content src="Text/5389.html"/>
-    </navPoint>
-    <navPoint id="num_15" playOrder="15">
-      <navLabel>
-        <text>卷第十一·漢紀三·太祖高皇帝中</text>
-      </navLabel>
-      <content src="Text/5390.html"/>
-    </navPoint>
-    <navPoint id="num_16" playOrder="16">
-      <navLabel>
-        <text>卷第十二·漢紀四·太祖高皇帝下·孝惠皇帝</text>
-      </navLabel>
-      <content src="Text/5391.html"/>
-    </navPoint>
-    <navPoint id="num_17" playOrder="17">
-      <navLabel>
-        <text>卷第十三·漢紀五·高皇后·太宗孝文皇帝上</text>
-      </navLabel>
-      <content src="Text/5392.html"/>
-    </navPoint>
-    <navPoint id="num_18" playOrder="18">
-      <navLabel>
-        <text>卷第十四·漢紀六·太宗孝文皇帝中</text>
-      </navLabel>
-      <content src="Text/5393.html"/>
-    </navPoint>
-    <navPoint id="num_19" playOrder="19">
-      <navLabel>
-        <text>卷第十五·太宗孝文皇帝下·孝景皇帝上</text>
-      </navLabel>
-      <content src="Text/5394.html"/>
-    </navPoint>
-    <navPoint id="num_20" playOrder="20">
-      <navLabel>
-        <text>卷第十六·漢紀八·孝景皇帝下</text>
-      </navLabel>
-      <content src="Text/5395.html"/>
-    </navPoint>
-    <navPoint id="num_21" playOrder="21">
-      <navLabel>
-        <text>卷第十七·漢紀九·世宗孝武皇帝上之上</text>
-      </navLabel>
-      <content src="Text/5396.html"/>
-    </navPoint>
-    <navPoint id="num_22" playOrder="22">
-      <navLabel>
-        <text>卷第十八·漢紀十·世宗孝武皇帝上之下</text>
-      </navLabel>
-      <content src="Text/5397.html"/>
-    </navPoint>
-    <navPoint id="num_23" playOrder="23">
-      <navLabel>
-        <text>卷第十九·漢紀十一·世宗孝武皇帝中之上</text>
-      </navLabel>
-      <content src="Text/5398.html"/>
-    </navPoint>
-    <navPoint id="num_24" playOrder="24">
-      <navLabel>
-        <text>卷第二十·漢紀十二·世宗孝武皇帝中之下</text>
-      </navLabel>
-      <content src="Text/5399.html"/>
-    </navPoint>
-    <navPoint id="num_25" playOrder="25">
-      <navLabel>
-        <text>卷第二十一·漢紀十三·世宗孝武皇帝下之上</text>
-      </navLabel>
-      <content src="Text/5400.html"/>
-    </navPoint>
-    <navPoint id="num_26" playOrder="26">
-      <navLabel>
-        <text>卷第二十二·漢紀十四·世宗孝武皇帝下之下</text>
-      </navLabel>
-      <content src="Text/5401.html"/>
-    </navPoint>
-    <navPoint id="num_27" playOrder="27">
-      <navLabel>
-        <text>卷第二十三·漢紀十五·孝昭皇帝上</text>
-      </navLabel>
-      <content src="Text/5402.html"/>
-    </navPoint>
-    <navPoint id="num_28" playOrder="28">
-      <navLabel>
-        <text>卷第二十四·漢紀十六·孝昭皇帝下·中宗孝宣皇帝上之上</text>
-      </navLabel>
-      <content src="Text/5403.html"/>
-    </navPoint>
-    <navPoint id="num_29" playOrder="29">
-      <navLabel>
-        <text>卷第二十五·漢紀十七·中宗孝宣皇帝上之下</text>
-      </navLabel>
-      <content src="Text/5404.html"/>
-    </navPoint>
-    <navPoint id="num_30" playOrder="30">
-      <navLabel>
-        <text>卷第二十六·漢紀十八·中宗孝宣皇帝中</text>
-      </navLabel>
-      <content src="Text/5405.html"/>
-    </navPoint>
-    <navPoint id="num_31" playOrder="31">
-      <navLabel>
-        <text>卷第二十七·漢紀十九·中宗孝宣皇帝下</text>
-      </navLabel>
-      <content src="Text/5406.html"/>
-    </navPoint>
-    <navPoint id="num_32" playOrder="32">
-      <navLabel>
-        <text>卷第二十八·漢紀二十·孝元皇帝上</text>
-      </navLabel>
-      <content src="Text/5407.html"/>
-    </navPoint>
-    <navPoint id="num_33" playOrder="33">
-      <navLabel>
-        <text>卷第二十九·漢紀二十一·孝元皇帝下</text>
-      </navLabel>
-      <content src="Text/5408.html"/>
-    </navPoint>
-    <navPoint id="num_34" playOrder="34">
-      <navLabel>
-        <text>卷第三十·漢紀二十二·孝成皇帝上之上</text>
-      </navLabel>
-      <content src="Text/5409.html"/>
-    </navPoint>
-    <navPoint id="num_35" playOrder="35">
-      <navLabel>
-        <text>卷第三十一·漢紀二十三·孝成皇帝上之下</text>
-      </navLabel>
-      <content src="Text/5410.html"/>
-    </navPoint>
-    <navPoint id="num_36" playOrder="36">
-      <navLabel>
-        <text>卷第三十二·漢紀二十四·孝成皇帝中</text>
-      </navLabel>
-      <content src="Text/5411.html"/>
-    </navPoint>
-    <navPoint id="num_37" playOrder="37">
-      <navLabel>
-        <text>卷第三十三·漢紀二十五·孝成皇帝下·孝哀皇帝上</text>
-      </navLabel>
-      <content src="Text/5412.html"/>
-    </navPoint>
-    <navPoint id="num_38" playOrder="38">
-      <navLabel>
-        <text>卷第三十四·漢紀二十六·孝哀皇帝中</text>
-      </navLabel>
-      <content src="Text/5413.html"/>
-    </navPoint>
-    <navPoint id="num_39" playOrder="39">
-      <navLabel>
-        <text>卷第三十五·漢紀二十七·孝哀皇帝下·孝平皇帝上</text>
-      </navLabel>
-      <content src="Text/5414.html"/>
-    </navPoint>
-    <navPoint id="num_40" playOrder="40">
-      <navLabel>
-        <text>卷第三十六·漢紀二十八·孝平皇帝下·王莽上</text>
-      </navLabel>
-      <content src="Text/5415.html"/>
-    </navPoint>
-    <navPoint id="num_41" playOrder="41">
-      <navLabel>
-        <text>卷第三十七·漢紀二十九·王莽中</text>
-      </navLabel>
-      <content src="Text/5416.html"/>
-    </navPoint>
-    <navPoint id="num_42" playOrder="42">
-      <navLabel>
-        <text>卷第三十八·漢紀三十·王莽下</text>
-      </navLabel>
-      <content src="Text/5417.html"/>
-    </navPoint>
-    <navPoint id="num_43" playOrder="43">
-      <navLabel>
-        <text>卷第三十九·漢紀三十一·淮陽王</text>
-      </navLabel>
-      <content src="Text/5418.html"/>
-    </navPoint>
-    <navPoint id="num_44" playOrder="44">
-      <navLabel>
-        <text>卷第四十·漢紀三十二·世祖光武皇帝上之上</text>
-      </navLabel>
-      <content src="Text/5419.html"/>
-    </navPoint>
-    <navPoint id="num_45" playOrder="45">
-      <navLabel>
-        <text>卷第四十一·漢紀三十三·世祖光武皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6185.html"/>
-    </navPoint>
-    <navPoint id="num_46" playOrder="46">
-      <navLabel>
-        <text>卷第四十二·漢紀三十四·世祖光武皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6186.html"/>
-    </navPoint>
-    <navPoint id="num_47" playOrder="47">
-      <navLabel>
-        <text>卷第四十三·漢紀三十五·世祖光武皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6187.html"/>
-    </navPoint>
-    <navPoint id="num_48" playOrder="48">
-      <navLabel>
-        <text>卷第四十四·漢紀三十六·世祖光武皇帝下·顯宗孝明皇帝上</text>
-      </navLabel>
-      <content src="Text/6188.html"/>
-    </navPoint>
-    <navPoint id="num_49" playOrder="49">
-      <navLabel>
-        <text>卷第四十五·漢紀三十七·顯宗孝明皇帝下</text>
-      </navLabel>
-      <content src="Text/6189.html"/>
-    </navPoint>
-    <navPoint id="num_50" playOrder="50">
-      <navLabel>
-        <text>卷第四十六·漢紀三十八·肅宗孝章皇帝上</text>
-      </navLabel>
-      <content src="Text/6190.html"/>
-    </navPoint>
-    <navPoint id="num_51" playOrder="51">
-      <navLabel>
-        <text>卷第四十七·漢紀三十九·肅宗孝章皇帝下·孝和皇帝上</text>
-      </navLabel>
-      <content src="Text/6191.html"/>
-    </navPoint>
-    <navPoint id="num_52" playOrder="52">
-      <navLabel>
-        <text>卷第四十八·漢紀四十·孝和皇帝下</text>
-      </navLabel>
-      <content src="Text/6192.html"/>
-    </navPoint>
-    <navPoint id="num_53" playOrder="53">
-      <navLabel>
-        <text>卷第四十九·漢紀四十一·孝殤皇帝·孝安皇帝上</text>
-      </navLabel>
-      <content src="Text/6193.html"/>
-    </navPoint>
-    <navPoint id="num_54" playOrder="54">
-      <navLabel>
-        <text>卷第五十·漢紀四十二·孝安皇帝中</text>
-      </navLabel>
-      <content src="Text/6194.html"/>
-    </navPoint>
-    <navPoint id="num_55" playOrder="55">
-      <navLabel>
-        <text>卷第五十一·漢紀四十三·孝安皇帝下·孝順皇帝上</text>
-      </navLabel>
-      <content src="Text/6195.html"/>
-    </navPoint>
-    <navPoint id="num_56" playOrder="56">
-      <navLabel>
-        <text>卷第五十二·漢紀四十四·孝順皇帝下·孝沖皇帝</text>
-      </navLabel>
-      <content src="Text/6196.html"/>
-    </navPoint>
-    <navPoint id="num_57" playOrder="57">
-      <navLabel>
-        <text>卷第五十三·漢紀四十五·孝質皇帝·孝桓皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6197.html"/>
-    </navPoint>
-    <navPoint id="num_58" playOrder="58">
-      <navLabel>
-        <text>卷第五十四·漢紀四十六·孝桓皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6198.html"/>
-    </navPoint>
-    <navPoint id="num_59" playOrder="59">
-      <navLabel>
-        <text>卷第五十五·漢紀四十七·孝桓皇帝中</text>
-      </navLabel>
-      <content src="Text/6199.html"/>
-    </navPoint>
-    <navPoint id="num_60" playOrder="60">
-      <navLabel>
-        <text>卷第五十六·漢紀四十八·孝桓皇帝下·孝靈皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6200.html"/>
-    </navPoint>
-    <navPoint id="num_61" playOrder="61">
-      <navLabel>
-        <text>卷第五十七·漢紀四十九·孝靈皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6201.html"/>
-    </navPoint>
-    <navPoint id="num_62" playOrder="62">
-      <navLabel>
-        <text>卷第五十八·漢紀五十·孝靈皇帝中</text>
-      </navLabel>
-      <content src="Text/6202.html"/>
-    </navPoint>
-    <navPoint id="num_63" playOrder="63">
-      <navLabel>
-        <text>卷第五十九·漢紀五十一·孝靈皇帝下·孝獻皇帝甲</text>
-      </navLabel>
-      <content src="Text/6203.html"/>
-    </navPoint>
-    <navPoint id="num_64" playOrder="64">
-      <navLabel>
-        <text>卷第六十·漢紀五十二·孝獻皇帝乙</text>
-      </navLabel>
-      <content src="Text/6204.html"/>
-    </navPoint>
-    <navPoint id="num_65" playOrder="65">
-      <navLabel>
-        <text>卷第六十一·漢紀五十三·孝獻皇帝丙</text>
-      </navLabel>
-      <content src="Text/6205.html"/>
-    </navPoint>
-    <navPoint id="num_66" playOrder="66">
-      <navLabel>
-        <text>卷第六十二·漢紀五十四·孝獻皇帝丁</text>
-      </navLabel>
-      <content src="Text/6206.html"/>
-    </navPoint>
-    <navPoint id="num_67" playOrder="67">
-      <navLabel>
-        <text>卷第六十三·漢紀五十五·孝獻皇帝戊</text>
-      </navLabel>
-      <content src="Text/6207.html"/>
-    </navPoint>
-    <navPoint id="num_68" playOrder="68">
-      <navLabel>
-        <text>卷第六十四·漢紀五十六·孝獻皇帝己</text>
-      </navLabel>
-      <content src="Text/6208.html"/>
-    </navPoint>
-    <navPoint id="num_69" playOrder="69">
-      <navLabel>
-        <text>卷第六十五·漢紀五十七·孝獻皇帝庚</text>
-      </navLabel>
-      <content src="Text/6209.html"/>
-    </navPoint>
-    <navPoint id="num_70" playOrder="70">
-      <navLabel>
-        <text>卷第六十六·漢紀五十八·孝獻皇帝辛</text>
-      </navLabel>
-      <content src="Text/6210.html"/>
-    </navPoint>
-    <navPoint id="num_71" playOrder="71">
-      <navLabel>
-        <text>卷第六十七·漢紀五十九·孝獻皇帝壬</text>
-      </navLabel>
-      <content src="Text/6211.html"/>
-    </navPoint>
-    <navPoint id="num_72" playOrder="72">
-      <navLabel>
-        <text>卷第六十八·漢紀六十·孝獻皇帝癸</text>
-      </navLabel>
-      <content src="Text/6212.html"/>
-    </navPoint>
-    <navPoint id="num_73" playOrder="73">
-      <navLabel>
-        <text>卷第六十九·魏紀一·世祖文皇帝上</text>
-      </navLabel>
-      <content src="Text/6213.html"/>
-    </navPoint>
-    <navPoint id="num_74" playOrder="74">
-      <navLabel>
-        <text>卷第七十·魏紀二·世祖文皇帝下·烈祖明皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6214.html"/>
-    </navPoint>
-    <navPoint id="num_75" playOrder="75">
-      <navLabel>
-        <text>卷第七十一·魏紀三·烈祖明皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6215.html"/>
-    </navPoint>
-    <navPoint id="num_76" playOrder="76">
-      <navLabel>
-        <text>卷第七十二·魏紀四·烈祖明皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6216.html"/>
-    </navPoint>
-    <navPoint id="num_77" playOrder="77">
-      <navLabel>
-        <text>卷第七十三·魏紀五·烈祖明皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6217.html"/>
-    </navPoint>
-    <navPoint id="num_78" playOrder="78">
-      <navLabel>
-        <text>卷第七十四·魏紀六·烈祖明皇帝下·邵陵厲公上</text>
-      </navLabel>
-      <content src="Text/6218.html"/>
-    </navPoint>
-    <navPoint id="num_79" playOrder="79">
-      <navLabel>
-        <text>卷第七十五·魏紀七·邵陵厲公中</text>
-      </navLabel>
-      <content src="Text/6219.html"/>
-    </navPoint>
-    <navPoint id="num_80" playOrder="80">
-      <navLabel>
-        <text>卷第七十六·魏紀八·邵陵厲公下·高貴鄕公上</text>
-      </navLabel>
-      <content src="Text/6220.html"/>
-    </navPoint>
-    <navPoint id="num_81" playOrder="81">
-      <navLabel>
-        <text>卷第七十七·魏紀九·高貴鄕公下·元皇帝上</text>
-      </navLabel>
-      <content src="Text/6221.html"/>
-    </navPoint>
-    <navPoint id="num_82" playOrder="82">
-      <navLabel>
-        <text>卷第七十八·魏紀十·元皇帝下</text>
-      </navLabel>
-      <content src="Text/6222.html"/>
-    </navPoint>
-    <navPoint id="num_83" playOrder="83">
-      <navLabel>
-        <text>卷第七十九·晉紀一·世祖武皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6223.html"/>
-    </navPoint>
-    <navPoint id="num_84" playOrder="84">
-      <navLabel>
-        <text>卷第八十·晉紀二·世祖武皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6224.html"/>
-    </navPoint>
-    <navPoint id="num_85" playOrder="85">
-      <navLabel>
-        <text>卷第八十一·晉紀三·世祖武皇帝中</text>
-      </navLabel>
-      <content src="Text/6225.html"/>
-    </navPoint>
-    <navPoint id="num_86" playOrder="86">
-      <navLabel>
-        <text>卷第八十二·晉紀四·世祖武皇帝下·孝惠皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6226.html"/>
-    </navPoint>
-    <navPoint id="num_87" playOrder="87">
-      <navLabel>
-        <text>卷第八十三·晉紀五·孝惠皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6227.html"/>
-    </navPoint>
-    <navPoint id="num_88" playOrder="88">
-      <navLabel>
-        <text>卷第八十四·晉紀六·孝惠皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6228.html"/>
-    </navPoint>
-    <navPoint id="num_89" playOrder="89">
-      <navLabel>
-        <text>卷第八十五·晉紀七·孝惠皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6229.html"/>
-    </navPoint>
-    <navPoint id="num_90" playOrder="90">
-      <navLabel>
-        <text>卷第八十六·晉紀八·孝惠皇帝下·孝懷皇帝上</text>
-      </navLabel>
-      <content src="Text/6230.html"/>
-    </navPoint>
-    <navPoint id="num_91" playOrder="91">
-      <navLabel>
-        <text>卷第八十七·晉紀九·孝懷皇帝中</text>
-      </navLabel>
-      <content src="Text/6231.html"/>
-    </navPoint>
-    <navPoint id="num_92" playOrder="92">
-      <navLabel>
-        <text>卷第八十八·晉紀十·孝懷皇帝下·孝愍皇帝上</text>
-      </navLabel>
-      <content src="Text/6232.html"/>
-    </navPoint>
-    <navPoint id="num_93" playOrder="93">
-      <navLabel>
-        <text>卷第八十九·晉紀十一·孝愍皇帝下</text>
-      </navLabel>
-      <content src="Text/6233.html"/>
-    </navPoint>
-    <navPoint id="num_94" playOrder="94">
-      <navLabel>
-        <text>卷第九十·晉紀十二·中宗元皇帝上</text>
-      </navLabel>
-      <content src="Text/6234.html"/>
-    </navPoint>
-    <navPoint id="num_95" playOrder="95">
-      <navLabel>
-        <text>卷第九十一·晉紀十三·中宗元皇帝中</text>
-      </navLabel>
-      <content src="Text/6235.html"/>
-    </navPoint>
-    <navPoint id="num_96" playOrder="96">
-      <navLabel>
-        <text>卷第九十二·晉紀十四·中宗元皇帝下·肅宗明皇帝上</text>
-      </navLabel>
-      <content src="Text/6236.html"/>
-    </navPoint>
-    <navPoint id="num_97" playOrder="97">
-      <navLabel>
-        <text>卷第九十三·晉紀十五·肅宗明皇帝下·顯宗成皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6237.html"/>
-    </navPoint>
-    <navPoint id="num_98" playOrder="98">
-      <navLabel>
-        <text>卷第九十四·晉紀十六·顯宗皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6238.html"/>
-    </navPoint>
-    <navPoint id="num_99" playOrder="99">
-      <navLabel>
-        <text>卷第九十五·晉紀十七·顯宗成皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6239.html"/>
-    </navPoint>
-    <navPoint id="num_100" playOrder="100">
-      <navLabel>
-        <text>卷第九十六·晉紀十八·顯宗成皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6240.html"/>
-    </navPoint>
-    <navPoint id="num_101" playOrder="101">
-      <navLabel>
-        <text>卷第九十七·晉紀十九·顯宗成皇帝下·康皇帝·孝宗穆皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6241.html"/>
-    </navPoint>
-    <navPoint id="num_102" playOrder="102">
-      <navLabel>
-        <text>卷第九十八·晉紀二十·孝宗穆皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6242.html"/>
-    </navPoint>
-    <navPoint id="num_103" playOrder="103">
-      <navLabel>
-        <text>卷第九十九·晉紀二十一·孝宗穆皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6243.html"/>
-    </navPoint>
-    <navPoint id="num_104" playOrder="104">
-      <navLabel>
-        <text>卷第一百·晉紀二十二·孝宗穆皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6244.html"/>
-    </navPoint>
-    <navPoint id="num_105" playOrder="105">
-      <navLabel>
-        <text>卷第一百一·晉紀二十三·孝宗穆皇帝下·哀皇帝·海西公上</text>
-      </navLabel>
-      <content src="Text/6245.html"/>
-    </navPoint>
-    <navPoint id="num_106" playOrder="106">
-      <navLabel>
-        <text>卷第一百二·晉紀二十四·海西公下</text>
-      </navLabel>
-      <content src="Text/6246.html"/>
-    </navPoint>
-    <navPoint id="num_107" playOrder="107">
-      <navLabel>
-        <text>卷第一百三·晉紀二十五·太宗簡文皇帝·烈宗孝武皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6247.html"/>
-    </navPoint>
-    <navPoint id="num_108" playOrder="108">
-      <navLabel>
-        <text>卷第一百四·晉紀二十六·烈宗孝武皇帝上之中</text>
-      </navLabel>
-      <content src="Text/6248.html"/>
-    </navPoint>
-    <navPoint id="num_109" playOrder="109">
-      <navLabel>
-        <text>卷第一百五·晉紀二十七·烈宗孝武皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6249.html"/>
-    </navPoint>
-    <navPoint id="num_110" playOrder="110">
-      <navLabel>
-        <text>卷第一百六·晉紀二十八·烈宗孝武皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6250.html"/>
-    </navPoint>
-    <navPoint id="num_111" playOrder="111">
-      <navLabel>
-        <text>卷第一百七·晉紀二十九·烈宗孝武皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6251.html"/>
-    </navPoint>
-    <navPoint id="num_112" playOrder="112">
-      <navLabel>
-        <text>卷第一百八·晉紀三十·烈宗孝武皇帝下</text>
-      </navLabel>
-      <content src="Text/6252.html"/>
-    </navPoint>
-    <navPoint id="num_113" playOrder="113">
-      <navLabel>
-        <text>卷第一百九·晉紀三十一·安皇帝甲</text>
-      </navLabel>
-      <content src="Text/6253.html"/>
-    </navPoint>
-    <navPoint id="num_114" playOrder="114">
-      <navLabel>
-        <text>卷第一百一十·晉紀三十二·安皇帝乙</text>
-      </navLabel>
-      <content src="Text/6254.html"/>
-    </navPoint>
-    <navPoint id="num_115" playOrder="115">
-      <navLabel>
-        <text>第一百一十一·晉紀三十三·安皇帝丙</text>
-      </navLabel>
-      <content src="Text/6255.html"/>
-    </navPoint>
-    <navPoint id="num_116" playOrder="116">
-      <navLabel>
-        <text>卷第一百一十二·晉紀三十四·安皇帝丁</text>
-      </navLabel>
-      <content src="Text/6256.html"/>
-    </navPoint>
-    <navPoint id="num_117" playOrder="117">
-      <navLabel>
-        <text>卷第一百一十三·晉紀三十五·安皇帝戊</text>
-      </navLabel>
-      <content src="Text/6257.html"/>
-    </navPoint>
-    <navPoint id="num_118" playOrder="118">
-      <navLabel>
-        <text>第一百一十四·晉紀三十六·安皇帝己</text>
-      </navLabel>
-      <content src="Text/6258.html"/>
-    </navPoint>
-    <navPoint id="num_119" playOrder="119">
-      <navLabel>
-        <text>卷第一百一十五·晉紀三十七·安皇帝庚</text>
-      </navLabel>
-      <content src="Text/6259.html"/>
-    </navPoint>
-    <navPoint id="num_120" playOrder="120">
-      <navLabel>
-        <text>卷第一百一十六·晉紀三十八·安皇帝辛</text>
-      </navLabel>
-      <content src="Text/6260.html"/>
-    </navPoint>
-    <navPoint id="num_121" playOrder="121">
-      <navLabel>
-        <text>卷第一百一十七·晉紀三十九·安皇帝壬</text>
-      </navLabel>
-      <content src="Text/6261.html"/>
-    </navPoint>
-    <navPoint id="num_122" playOrder="122">
-      <navLabel>
-        <text>卷第一百一十八·晉紀四十·安皇帝癸·恭皇帝</text>
-      </navLabel>
-      <content src="Text/6262.html"/>
-    </navPoint>
-    <navPoint id="num_123" playOrder="123">
-      <navLabel>
-        <text>卷第一百一十九·宋紀一·高祖武皇帝·營陽王</text>
-      </navLabel>
-      <content src="Text/6263.html"/>
-    </navPoint>
-    <navPoint id="num_124" playOrder="124">
-      <navLabel>
-        <text>卷第一百二十·宋紀二·太祖文皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6264.html"/>
-    </navPoint>
-    <navPoint id="num_125" playOrder="125">
-      <navLabel>
-        <text>卷第一百二十一·宋紀三·太祖文皇帝上之中</text>
-      </navLabel>
-      <content src="Text/6265.html"/>
-    </navPoint>
-    <navPoint id="num_126" playOrder="126">
-      <navLabel>
-        <text>卷第一百二十二·宋紀四·太祖文皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6266.html"/>
-    </navPoint>
-    <navPoint id="num_127" playOrder="127">
-      <navLabel>
-        <text>卷第一百二十三·宋紀五·太祖文皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6267.html"/>
-    </navPoint>
-    <navPoint id="num_128" playOrder="128">
-      <navLabel>
-        <text>卷第一百二十四·宋紀六·太祖文皇帝中之中</text>
-      </navLabel>
-      <content src="Text/6268.html"/>
-    </navPoint>
-    <navPoint id="num_129" playOrder="129">
-      <navLabel>
-        <text>卷第一百二十五·宋紀七·太祖文皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6269.html"/>
-    </navPoint>
-    <navPoint id="num_130" playOrder="130">
-      <navLabel>
-        <text>卷第一百二十六·宋紀八·太祖文皇帝下之上</text>
-      </navLabel>
-      <content src="Text/6270.html"/>
-    </navPoint>
-    <navPoint id="num_131" playOrder="131">
-      <navLabel>
-        <text>卷第一百二十七·宋紀九·太祖文皇帝下之下</text>
-      </navLabel>
-      <content src="Text/6271.html"/>
-    </navPoint>
-    <navPoint id="num_132" playOrder="132">
-      <navLabel>
-        <text>卷第一百二十八·宋紀十·世祖孝武皇帝上</text>
-      </navLabel>
-      <content src="Text/6272.html"/>
-    </navPoint>
-    <navPoint id="num_133" playOrder="133">
-      <navLabel>
-        <text>卷第一百二十九·宋紀十一·世祖孝武皇帝下</text>
-      </navLabel>
-      <content src="Text/6273.html"/>
-    </navPoint>
-    <navPoint id="num_134" playOrder="134">
-      <navLabel>
-        <text>卷第一百三十·宋紀十二·太宗明皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6274.html"/>
-    </navPoint>
-    <navPoint id="num_135" playOrder="135">
-      <navLabel>
-        <text>卷第一百三十一·宋紀十三·太宗明皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6275.html"/>
-    </navPoint>
-    <navPoint id="num_136" playOrder="136">
-      <navLabel>
-        <text>卷第一百三十二·宋紀十四·太宗明皇帝中</text>
-      </navLabel>
-      <content src="Text/6276.html"/>
-    </navPoint>
-    <navPoint id="num_137" playOrder="137">
-      <navLabel>
-        <text>卷第一百三十三·宋紀十五·太宗明皇帝下·太宗明皇帝下</text>
-      </navLabel>
-      <content src="Text/6277.html"/>
-    </navPoint>
-    <navPoint id="num_138" playOrder="138">
-      <navLabel>
-        <text>卷第一百三十四·宋紀十六·元徽四年·順皇帝</text>
-      </navLabel>
-      <content src="Text/6278.html"/>
-    </navPoint>
-    <navPoint id="num_139" playOrder="139">
-      <navLabel>
-        <text>卷第一百三十五·齊紀一·太祖高皇帝·世祖武皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6279.html"/>
-    </navPoint>
-    <navPoint id="num_140" playOrder="140">
-      <navLabel>
-        <text>卷第一百三十六·齊紀二·世祖武皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6280.html"/>
-    </navPoint>
-    <navPoint id="num_141" playOrder="141">
-      <navLabel>
-        <text>卷第一百三十七·齊紀三·世祖武皇帝中</text>
-      </navLabel>
-      <content src="Text/6281.html"/>
-    </navPoint>
-    <navPoint id="num_142" playOrder="142">
-      <navLabel>
-        <text>卷第一百三十八·齊紀四·世祖武皇帝下</text>
-      </navLabel>
-      <content src="Text/6282.html"/>
-    </navPoint>
-    <navPoint id="num_143" playOrder="143">
-      <navLabel>
-        <text>卷第一百三十九·齊紀五·高宗明皇帝上</text>
-      </navLabel>
-      <content src="Text/6283.html"/>
-    </navPoint>
-    <navPoint id="num_144" playOrder="144">
-      <navLabel>
-        <text>卷第一百四十·齊紀六·高宗明皇帝中</text>
-      </navLabel>
-      <content src="Text/6284.html"/>
-    </navPoint>
-    <navPoint id="num_145" playOrder="145">
-      <navLabel>
-        <text>卷第一百四十一·齊紀七·高宗明皇帝下</text>
-      </navLabel>
-      <content src="Text/6285.html"/>
-    </navPoint>
-    <navPoint id="num_146" playOrder="146">
-      <navLabel>
-        <text>卷第一百四十二·齊紀八·東昏侯上</text>
-      </navLabel>
-      <content src="Text/6286.html"/>
-    </navPoint>
-    <navPoint id="num_147" playOrder="147">
-      <navLabel>
-        <text>卷第一百四十三·齊紀九·東昏侯下</text>
-      </navLabel>
-      <content src="Text/6287.html"/>
-    </navPoint>
-    <navPoint id="num_148" playOrder="148">
-      <navLabel>
-        <text>卷第一百四十四·齊紀十·和皇帝</text>
-      </navLabel>
-      <content src="Text/6288.html"/>
-    </navPoint>
-    <navPoint id="num_149" playOrder="149">
-      <navLabel>
-        <text>卷第一百四十五·梁紀一·高祖武皇帝</text>
-      </navLabel>
-      <content src="Text/6289.html"/>
-    </navPoint>
-    <navPoint id="num_150" playOrder="150">
-      <navLabel>
-        <text>卷第一百四十六·梁紀二·高祖武皇帝二</text>
-      </navLabel>
-      <content src="Text/6290.html"/>
-    </navPoint>
-    <navPoint id="num_151" playOrder="151">
-      <navLabel>
-        <text>卷第一百四十七·梁紀三·高祖武皇帝三</text>
-      </navLabel>
-      <content src="Text/6291.html"/>
-    </navPoint>
-    <navPoint id="num_152" playOrder="152">
-      <navLabel>
-        <text>卷第一百四十八·梁紀四·高祖武皇帝四</text>
-      </navLabel>
-      <content src="Text/6292.html"/>
-    </navPoint>
-    <navPoint id="num_153" playOrder="153">
-      <navLabel>
-        <text>卷第一百四十九·梁紀五·高祖武皇帝五</text>
-      </navLabel>
-      <content src="Text/6293.html"/>
-    </navPoint>
-    <navPoint id="num_154" playOrder="154">
-      <navLabel>
-        <text>卷第一百五十·梁紀六·高祖武皇帝六</text>
-      </navLabel>
-      <content src="Text/6294.html"/>
-    </navPoint>
-    <navPoint id="num_155" playOrder="155">
-      <navLabel>
-        <text>卷第一百五十一·梁紀七·高祖武皇帝七</text>
-      </navLabel>
-      <content src="Text/6295.html"/>
-    </navPoint>
-    <navPoint id="num_156" playOrder="156">
-      <navLabel>
-        <text>卷第一百五十二·梁紀八·高祖武皇帝八</text>
-      </navLabel>
-      <content src="Text/6296.html"/>
-    </navPoint>
-    <navPoint id="num_157" playOrder="157">
-      <navLabel>
-        <text>卷第一百五十三·梁紀九·高祖武皇帝九</text>
-      </navLabel>
-      <content src="Text/6297.html"/>
-    </navPoint>
-    <navPoint id="num_158" playOrder="158">
-      <navLabel>
-        <text>卷第一百五十四·梁紀十·高祖武皇帝十</text>
-      </navLabel>
-      <content src="Text/6298.html"/>
-    </navPoint>
-    <navPoint id="num_159" playOrder="159">
-      <navLabel>
-        <text>卷第一百五十五·梁紀十一·高祖武皇帝十一</text>
-      </navLabel>
-      <content src="Text/6299.html"/>
-    </navPoint>
-    <navPoint id="num_160" playOrder="160">
-      <navLabel>
-        <text>卷第一百五十六·梁紀十二·高祖武皇帝十二</text>
-      </navLabel>
-      <content src="Text/6300.html"/>
-    </navPoint>
-    <navPoint id="num_161" playOrder="161">
-      <navLabel>
-        <text>卷第一百五十七·梁紀十三·高祖武皇帝十三</text>
-      </navLabel>
-      <content src="Text/6301.html"/>
-    </navPoint>
-    <navPoint id="num_162" playOrder="162">
-      <navLabel>
-        <text>卷第一百五十八·梁紀十四·高祖武皇帝十四</text>
-      </navLabel>
-      <content src="Text/6302.html"/>
-    </navPoint>
-    <navPoint id="num_163" playOrder="163">
-      <navLabel>
-        <text>卷第一百五十九·梁紀十五·高祖武皇帝十五</text>
-      </navLabel>
-      <content src="Text/6303.html"/>
-    </navPoint>
-    <navPoint id="num_164" playOrder="164">
-      <navLabel>
-        <text>卷第一百六十·梁紀十六·高祖武皇帝十六</text>
-      </navLabel>
-      <content src="Text/6304.html"/>
-    </navPoint>
-    <navPoint id="num_165" playOrder="165">
-      <navLabel>
-        <text>卷第一百六十一·梁紀十七·高祖武皇帝十七</text>
-      </navLabel>
-      <content src="Text/6305.html"/>
-    </navPoint>
-    <navPoint id="num_166" playOrder="166">
-      <navLabel>
-        <text>卷第一百六十二·梁紀十八·高祖武皇帝十八</text>
-      </navLabel>
-      <content src="Text/6306.html"/>
-    </navPoint>
-    <navPoint id="num_167" playOrder="167">
-      <navLabel>
-        <text>卷第一百六十三·梁紀十九·太宗簡文皇帝上</text>
-      </navLabel>
-      <content src="Text/6307.html"/>
-    </navPoint>
-    <navPoint id="num_168" playOrder="168">
-      <navLabel>
-        <text>卷第一百六十四·梁紀二十·太宗簡文皇帝下·世祖孝元皇帝上</text>
-      </navLabel>
-      <content src="Text/6308.html"/>
-    </navPoint>
-    <navPoint id="num_169" playOrder="169">
-      <navLabel>
-        <text>卷第一百六十五·梁紀二十一·世祖孝元皇帝下</text>
-      </navLabel>
-      <content src="Text/6309.html"/>
-    </navPoint>
-    <navPoint id="num_170" playOrder="170">
-      <navLabel>
-        <text>卷第一百六十六·梁紀二十二·敬皇帝</text>
-      </navLabel>
-      <content src="Text/6310.html"/>
-    </navPoint>
-    <navPoint id="num_171" playOrder="171">
-      <navLabel>
-        <text>卷第一百六十七·陳紀一·高祖武皇帝</text>
-      </navLabel>
-      <content src="Text/6311.html"/>
-    </navPoint>
-    <navPoint id="num_172" playOrder="172">
-      <navLabel>
-        <text>卷第一百六十八·陳紀二·世祖文皇帝上</text>
-      </navLabel>
-      <content src="Text/6312.html"/>
-    </navPoint>
-    <navPoint id="num_173" playOrder="173">
-      <navLabel>
-        <text>卷第一百六十九·陳紀三·世祖文皇帝下</text>
-      </navLabel>
-      <content src="Text/6313.html"/>
-    </navPoint>
-    <navPoint id="num_174" playOrder="174">
-      <navLabel>
-        <text>卷第一百七十·陳紀四·臨海王·高宗宣皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6314.html"/>
-    </navPoint>
-    <navPoint id="num_175" playOrder="175">
-      <navLabel>
-        <text>卷第一百七十一·陳紀五·高宗宣皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6315.html"/>
-    </navPoint>
-    <navPoint id="num_176" playOrder="176">
-      <navLabel>
-        <text>卷第一百七十二·陳紀六·高宗宣皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6316.html"/>
-    </navPoint>
-    <navPoint id="num_177" playOrder="177">
-      <navLabel>
-        <text>卷第一百七十三·陳紀七·高宗宣皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6317.html"/>
-    </navPoint>
-    <navPoint id="num_178" playOrder="178">
-      <navLabel>
-        <text>卷第一百七十四·陳紀八·高宗宣皇帝下之上</text>
-      </navLabel>
-      <content src="Text/6318.html"/>
-    </navPoint>
-    <navPoint id="num_179" playOrder="179">
-      <navLabel>
-        <text>卷第一百七十五·陳紀九·高宗宣皇帝下之下·長城公上</text>
-      </navLabel>
-      <content src="Text/6319.html"/>
-    </navPoint>
-    <navPoint id="num_180" playOrder="180">
-      <navLabel>
-        <text>卷第一百七十六·陳紀十·長城公下</text>
-      </navLabel>
-      <content src="Text/6320.html"/>
-    </navPoint>
-    <navPoint id="num_181" playOrder="181">
-      <navLabel>
-        <text>卷第一百七十七·隋紀一·高祖文皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6321.html"/>
-    </navPoint>
-    <navPoint id="num_182" playOrder="182">
-      <navLabel>
-        <text>卷第一百七十八·隋紀二·高祖文皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6322.html"/>
-    </navPoint>
-    <navPoint id="num_183" playOrder="183">
-      <navLabel>
-        <text>卷第一百七十九·隋紀三·高祖文皇帝中</text>
-      </navLabel>
-      <content src="Text/6323.html"/>
-    </navPoint>
-    <navPoint id="num_184" playOrder="184">
-      <navLabel>
-        <text>卷第一百八十·隋紀四·高祖文皇帝下·煬皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6324.html"/>
-    </navPoint>
-    <navPoint id="num_185" playOrder="185">
-      <navLabel>
-        <text>卷第一百八十一·隋紀五·煬皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6325.html"/>
-    </navPoint>
-    <navPoint id="num_186" playOrder="186">
-      <navLabel>
-        <text>卷第一百八十二·隋紀六·煬皇帝中</text>
-      </navLabel>
-      <content src="Text/6326.html"/>
-    </navPoint>
-    <navPoint id="num_187" playOrder="187">
-      <navLabel>
-        <text>卷第一百八十三·隋紀七·煬皇帝下·恭皇帝上</text>
-      </navLabel>
-      <content src="Text/6327.html"/>
-    </navPoint>
-    <navPoint id="num_188" playOrder="188">
-      <navLabel>
-        <text>卷第一百八十四·隋紀八·恭皇帝下</text>
-      </navLabel>
-      <content src="Text/6328.html"/>
-    </navPoint>
-    <navPoint id="num_189" playOrder="189">
-      <navLabel>
-        <text>卷第一百八十五·唐紀一·高祖神堯大聖光孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6329.html"/>
-    </navPoint>
-    <navPoint id="num_190" playOrder="190">
-      <navLabel>
-        <text>卷第一百八十六·唐紀二·高祖神堯大聖光孝皇帝上之中</text>
-      </navLabel>
-      <content src="Text/6330.html"/>
-    </navPoint>
-    <navPoint id="num_191" playOrder="191">
-      <navLabel>
-        <text>卷第一百八十七·唐紀三·高祖神堯大聖光孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6331.html"/>
-    </navPoint>
-    <navPoint id="num_192" playOrder="192">
-      <navLabel>
-        <text>卷第一百八十八·唐紀四·高祖神堯大聖光孝皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6332.html"/>
-    </navPoint>
-    <navPoint id="num_193" playOrder="193">
-      <navLabel>
-        <text>卷第一百八十九·唐紀五·高祖神堯大聖光孝皇帝中之中</text>
-      </navLabel>
-      <content src="Text/6333.html"/>
-    </navPoint>
-    <navPoint id="num_194" playOrder="194">
-      <navLabel>
-        <text>卷第一百九十·唐紀六·高祖神堯大聖光孝皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6334.html"/>
-    </navPoint>
-    <navPoint id="num_195" playOrder="195">
-      <navLabel>
-        <text>卷第一百九十一·唐紀七·高祖神堯大聖光孝皇帝下之上</text>
-      </navLabel>
-      <content src="Text/6335.html"/>
-    </navPoint>
-    <navPoint id="num_196" playOrder="196">
-      <navLabel>
-        <text>卷第一百九十二·唐紀八·高祖神堯大聖光孝皇帝下之下·太宗文武大聖大廣孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6336.html"/>
-    </navPoint>
-    <navPoint id="num_197" playOrder="197">
-      <navLabel>
-        <text>卷第一百九十三·唐紀九·太宗文武大聖大廣孝皇帝上之中</text>
-      </navLabel>
-      <content src="Text/6337.html"/>
-    </navPoint>
-    <navPoint id="num_198" playOrder="198">
-      <navLabel>
-        <text>卷第一百九十四·唐紀十·太宗文武大聖大廣孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6338.html"/>
-    </navPoint>
-    <navPoint id="num_199" playOrder="199">
-      <navLabel>
-        <text>卷第一百九十五·唐紀十一·太宗文武大聖大廣孝皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6339.html"/>
-    </navPoint>
-    <navPoint id="num_200" playOrder="200">
-      <navLabel>
-        <text>卷第一百九十六·唐紀十二·太宗文武大聖大廣孝皇帝中之中</text>
-      </navLabel>
-      <content src="Text/6340.html"/>
-    </navPoint>
-    <navPoint id="num_201" playOrder="201">
-      <navLabel>
-        <text>卷第一百九十七·唐紀十三·太宗文武大聖大廣孝皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6341.html"/>
-    </navPoint>
-    <navPoint id="num_202" playOrder="202">
-      <navLabel>
-        <text>卷第一百九十八·唐紀十四·太宗文武大聖大廣孝皇帝下之上</text>
-      </navLabel>
-      <content src="Text/6342.html"/>
-    </navPoint>
-    <navPoint id="num_203" playOrder="203">
-      <navLabel>
-        <text>卷第一百九十九·唐紀十五·太宗文武大聖大廣孝皇帝下之下·高宗天皇大聖大弘孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6343.html"/>
-    </navPoint>
-    <navPoint id="num_204" playOrder="204">
-      <navLabel>
-        <text>卷第二百·唐紀十六·高宗天皇大聖大弘孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6344.html"/>
-    </navPoint>
-    <navPoint id="num_205" playOrder="205">
-      <navLabel>
-        <text>卷第二百一·唐紀十七·高宗天皇大聖大弘孝皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6345.html"/>
-    </navPoint>
-    <navPoint id="num_206" playOrder="206">
-      <navLabel>
-        <text>卷第二百二·唐紀十八·高宗天皇大聖大弘孝皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6346.html"/>
-    </navPoint>
-    <navPoint id="num_207" playOrder="207">
-      <navLabel>
-        <text>卷第二百三·唐紀十九·高宗天皇大聖大弘孝皇帝下·則天順聖皇后上之上</text>
-      </navLabel>
-      <content src="Text/6347.html"/>
-    </navPoint>
-    <navPoint id="num_208" playOrder="208">
-      <navLabel>
-        <text>卷第二百四·唐紀二十·則天順聖皇后上之下</text>
-      </navLabel>
-      <content src="Text/6348.html"/>
-    </navPoint>
-    <navPoint id="num_209" playOrder="209">
-      <navLabel>
-        <text>卷第二百五·唐紀二十一·則天順聖皇后中之上</text>
-      </navLabel>
-      <content src="Text/6349.html"/>
-    </navPoint>
-    <navPoint id="num_210" playOrder="210">
-      <navLabel>
-        <text>卷第二百六·唐紀二十二·則天順聖皇后中之下</text>
-      </navLabel>
-      <content src="Text/6350.html"/>
-    </navPoint>
-    <navPoint id="num_211" playOrder="211">
-      <navLabel>
-        <text>卷第二百七·唐紀二十三·則天順聖皇后下·中宗大和大聖大昭孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6351.html"/>
-    </navPoint>
-    <navPoint id="num_212" playOrder="212">
-      <navLabel>
-        <text>卷第二百八·唐紀二十四·中宗大和大聖大昭孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6352.html"/>
-    </navPoint>
-    <navPoint id="num_213" playOrder="213">
-      <navLabel>
-        <text>卷第二百九·唐紀二十五·中宗大和大聖大昭孝皇帝下·睿宗玄眞大聖大興孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6353.html"/>
-    </navPoint>
-    <navPoint id="num_214" playOrder="214">
-      <navLabel>
-        <text>卷第二百一十·唐紀二十六·睿宗玄眞大聖大興孝皇帝下·玄宗至道大聖大明孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6354.html"/>
-    </navPoint>
-    <navPoint id="num_215" playOrder="215">
-      <navLabel>
-        <text>卷第二百一十一·唐紀二十七·玄宗至道大聖大明孝皇帝上之中</text>
-      </navLabel>
-      <content src="Text/6355.html"/>
-    </navPoint>
-    <navPoint id="num_216" playOrder="216">
-      <navLabel>
-        <text>卷第二百一十二·唐紀二十八·玄宗道大聖大明孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6356.html"/>
-    </navPoint>
-    <navPoint id="num_217" playOrder="217">
-      <navLabel>
-        <text>卷第二百一十三·唐紀二十九·玄宗至道大聖大明孝皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6357.html"/>
-    </navPoint>
-    <navPoint id="num_218" playOrder="218">
-      <navLabel>
-        <text>卷第二百一十四·唐紀三十·玄宗至道大聖大明孝皇帝中之中</text>
-      </navLabel>
-      <content src="Text/6358.html"/>
-    </navPoint>
-    <navPoint id="num_219" playOrder="219">
-      <navLabel>
-        <text>卷第二百一十五·唐紀三十一·玄宗至道大聖大明孝皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6359.html"/>
-    </navPoint>
-    <navPoint id="num_220" playOrder="220">
-      <navLabel>
-        <text>卷第二百一十六·唐紀三十二·玄宗至道大聖大明孝皇帝下之上</text>
-      </navLabel>
-      <content src="Text/6360.html"/>
-    </navPoint>
-    <navPoint id="num_221" playOrder="221">
-      <navLabel>
-        <text>卷第二百一十七·唐紀三十三·玄宗至道大聖大明孝皇帝下之下·肅宗文明武德大聖大宣孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6361.html"/>
-    </navPoint>
-    <navPoint id="num_222" playOrder="222">
-      <navLabel>
-        <text>卷第二百一十八·唐紀三十四·肅宗文明武德大聖大宣孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6362.html"/>
-    </navPoint>
-    <navPoint id="num_223" playOrder="223">
-      <navLabel>
-        <text>卷第二百一十九·唐紀三十五·肅宗文明武德大聖大宣孝皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6363.html"/>
-    </navPoint>
-    <navPoint id="num_224" playOrder="224">
-      <navLabel>
-        <text>卷第二百二十·唐紀三十六·肅宗文明武德大聖大宣孝宣皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6364.html"/>
-    </navPoint>
-    <navPoint id="num_225" playOrder="225">
-      <navLabel>
-        <text>卷第二百二十一·唐紀三十七·肅宗文明武德大聖大宣孝皇帝下之上</text>
-      </navLabel>
-      <content src="Text/6365.html"/>
-    </navPoint>
-    <navPoint id="num_226" playOrder="226">
-      <navLabel>
-        <text>卷第二百二十二·唐紀三十八·肅宗文明武德大聖大宣孝皇帝下之下·代宗睿文孝武皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6366.html"/>
-    </navPoint>
-    <navPoint id="num_227" playOrder="227">
-      <navLabel>
-        <text>卷第二百二十三·唐紀三十九·代宗睿文孝武皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6367.html"/>
-    </navPoint>
-    <navPoint id="num_228" playOrder="228">
-      <navLabel>
-        <text>卷第二百二十四·唐紀四十·代宗睿文孝武皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6368.html"/>
-    </navPoint>
-    <navPoint id="num_229" playOrder="229">
-      <navLabel>
-        <text>卷第二百二十五·唐紀四十一·代宗睿文孝武皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6369.html"/>
-    </navPoint>
-    <navPoint id="num_230" playOrder="230">
-      <navLabel>
-        <text>卷第二百二十六·唐紀四十二·代宗睿文孝武皇帝下·德宗神武孝文皇帝一</text>
-      </navLabel>
-      <content src="Text/6370.html"/>
-    </navPoint>
-    <navPoint id="num_231" playOrder="231">
-      <navLabel>
-        <text>卷第二百二十七·唐紀四十三·德宗神武聖文皇帝二</text>
-      </navLabel>
-      <content src="Text/6371.html"/>
-    </navPoint>
-    <navPoint id="num_232" playOrder="232">
-      <navLabel>
-        <text>卷第二百二十八·唐紀四十四·德宗神武聖文皇帝三</text>
-      </navLabel>
-      <content src="Text/6372.html"/>
-    </navPoint>
-    <navPoint id="num_233" playOrder="233">
-      <navLabel>
-        <text>卷第二百二十九·唐紀四十五·德宗神武聖文皇帝四</text>
-      </navLabel>
-      <content src="Text/6373.html"/>
-    </navPoint>
-    <navPoint id="num_234" playOrder="234">
-      <navLabel>
-        <text>卷第二百三十·唐紀四十六·德宗神武聖文皇帝五</text>
-      </navLabel>
-      <content src="Text/6374.html"/>
-    </navPoint>
-    <navPoint id="num_235" playOrder="235">
-      <navLabel>
-        <text>卷第二百三十一·唐紀四十七·德宗神武聖文皇帝六</text>
-      </navLabel>
-      <content src="Text/6375.html"/>
-    </navPoint>
-    <navPoint id="num_236" playOrder="236">
-      <navLabel>
-        <text>卷第二百三十二·唐紀四十八·德宗神武聖文皇帝七</text>
-      </navLabel>
-      <content src="Text/6376.html"/>
-    </navPoint>
-    <navPoint id="num_237" playOrder="237">
-      <navLabel>
-        <text>卷第二百三十三·唐紀四十九·德宗神武聖文皇帝八</text>
-      </navLabel>
-      <content src="Text/6377.html"/>
-    </navPoint>
-    <navPoint id="num_238" playOrder="238">
-      <navLabel>
-        <text>卷第二百三十四·唐紀五十·德宗神武聖文皇帝九</text>
-      </navLabel>
-      <content src="Text/6378.html"/>
-    </navPoint>
-    <navPoint id="num_239" playOrder="239">
-      <navLabel>
-        <text>卷第二百三十五·唐紀五十一·德宗神武聖文皇帝十</text>
-      </navLabel>
-      <content src="Text/6379.html"/>
-    </navPoint>
-    <navPoint id="num_240" playOrder="240">
-      <navLabel>
-        <text>卷第二百三十六·唐紀五十二·德宗神武聖文皇帝十一·順宗至德弘道大聖大安孝皇帝</text>
-      </navLabel>
-      <content src="Text/6380.html"/>
-    </navPoint>
-    <navPoint id="num_241" playOrder="241">
-      <navLabel>
-        <text>卷第二百三十七·唐紀五十三·憲宗昭文章武大聖至神孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6381.html"/>
-    </navPoint>
-    <navPoint id="num_242" playOrder="242">
-      <navLabel>
-        <text>卷第二百三十八·唐紀五十四·憲宗昭文章武大聖至神孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6382.html"/>
-    </navPoint>
-    <navPoint id="num_243" playOrder="243">
-      <navLabel>
-        <text>卷第二百三十九·唐紀五十五·憲宗昭文章武大聖至神孝皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6383.html"/>
-    </navPoint>
-    <navPoint id="num_244" playOrder="244">
-      <navLabel>
-        <text>卷第二百四十·唐紀五十六·憲宗昭文章武大聖至神孝皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6384.html"/>
-    </navPoint>
-    <navPoint id="num_245" playOrder="245">
-      <navLabel>
-        <text>卷第二百四十一·唐紀五十七·憲宗昭文章武大聖至神孝皇帝下·穆宗睿聖文惠孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6385.html"/>
-    </navPoint>
-    <navPoint id="num_246" playOrder="246">
-      <navLabel>
-        <text>卷第二百四十二·唐紀五十八·穆宗睿聖文惠孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6386.html"/>
-    </navPoint>
-    <navPoint id="num_247" playOrder="247">
-      <navLabel>
-        <text>卷第二百四十三·唐紀五十九·穆宗睿聖文惠孝皇帝下·敬宗睿武昭愍孝皇帝·文宗元聖昭獻孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6387.html"/>
-    </navPoint>
-    <navPoint id="num_248" playOrder="248">
-      <navLabel>
-        <text>卷第二百四十四·唐紀六十·文宗元聖昭獻孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6388.html"/>
-    </navPoint>
-    <navPoint id="num_249" playOrder="249">
-      <navLabel>
-        <text>卷第二百四十五·唐紀六十一·文宗元聖昭獻孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6389.html"/>
-    </navPoint>
-    <navPoint id="num_250" playOrder="250">
-      <navLabel>
-        <text>卷第二百四十六·唐紀六十二·文宗元聖昭獻孝皇帝下·武宗至道昭肅孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6390.html"/>
-    </navPoint>
-    <navPoint id="num_251" playOrder="251">
-      <navLabel>
-        <text>卷第二百四十七·唐紀六十三·武宗至道昭肅孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6391.html"/>
-    </navPoint>
-    <navPoint id="num_252" playOrder="252">
-      <navLabel>
-        <text>卷第二百四十八·唐紀六十四·武宗至道昭肅孝皇帝下·宣宗元聖至明成武獻文睿智章仁神聰懿道大孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6392.html"/>
-    </navPoint>
-    <navPoint id="num_253" playOrder="253">
-      <navLabel>
-        <text>卷第二百四十九·唐紀六十五·宣宗元聖至明成武獻文睿智章仁神聰懿道大孝皇帝下</text>
-      </navLabel>
-      <content src="Text/6393.html"/>
-    </navPoint>
-    <navPoint id="num_254" playOrder="254">
-      <navLabel>
-        <text>卷第二百五十·唐紀六十六·懿宗昭聖恭惠孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6394.html"/>
-    </navPoint>
-    <navPoint id="num_255" playOrder="255">
-      <navLabel>
-        <text>卷第二百五十一·唐紀六十七·懿宗昭聖恭惠孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6395.html"/>
-    </navPoint>
-    <navPoint id="num_256" playOrder="256">
-      <navLabel>
-        <text>卷第二百五十二·唐紀六十八·懿宗昭聖恭惠孝皇帝下·僖宗惠聖恭定孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6396.html"/>
-    </navPoint>
-    <navPoint id="num_257" playOrder="257">
-      <navLabel>
-        <text>卷第二百五十三·唐紀六十九·僖宗惠聖恭定孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6397.html"/>
-    </navPoint>
-    <navPoint id="num_258" playOrder="258">
-      <navLabel>
-        <text>卷第二百五十四·唐紀七十·僖宗惠聖恭定孝皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6398.html"/>
-    </navPoint>
-    <navPoint id="num_259" playOrder="259">
-      <navLabel>
-        <text>卷第二百五十五·唐紀七十一·僖宗惠聖恭定孝皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6399.html"/>
-    </navPoint>
-    <navPoint id="num_260" playOrder="260">
-      <navLabel>
-        <text>卷第二百五十六·唐紀七十二·僖宗惠聖恭定孝皇帝下之上</text>
-      </navLabel>
-      <content src="Text/6400.html"/>
-    </navPoint>
-    <navPoint id="num_261" playOrder="261">
-      <navLabel>
-        <text>卷第二百五十七·唐紀七十三·僖宗惠聖恭定孝皇帝下之下</text>
-      </navLabel>
-      <content src="Text/6401.html"/>
-    </navPoint>
-    <navPoint id="num_262" playOrder="262">
-      <navLabel>
-        <text>卷第二百五十八·唐紀七十四·昭宗聖穆景文孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6402.html"/>
-    </navPoint>
-    <navPoint id="num_263" playOrder="263">
-      <navLabel>
-        <text>卷第二百五十九·唐紀七十五·昭宗聖穆景文孝皇帝上之中</text>
-      </navLabel>
-      <content src="Text/6403.html"/>
-    </navPoint>
-    <navPoint id="num_264" playOrder="264">
-      <navLabel>
-        <text>卷第二百六十·唐紀七十六·昭宗聖穆景文孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6404.html"/>
-    </navPoint>
-    <navPoint id="num_265" playOrder="265">
-      <navLabel>
-        <text>卷第二百六十一·唐紀七十七·昭宗聖穆景文孝皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6405.html"/>
-    </navPoint>
-    <navPoint id="num_266" playOrder="266">
-      <navLabel>
-        <text>卷第二百六十二·唐紀七十八·昭宗聖穆景文孝皇帝中之中</text>
-      </navLabel>
-      <content src="Text/6406.html"/>
-    </navPoint>
-    <navPoint id="num_267" playOrder="267">
-      <navLabel>
-        <text>卷第二百六十三·唐紀七十九·昭宗聖穆景文孝皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6407.html"/>
-    </navPoint>
-    <navPoint id="num_268" playOrder="268">
-      <navLabel>
-        <text>卷第二百六十四·唐紀八十·昭宗聖穆景文孝皇帝下之上</text>
-      </navLabel>
-      <content src="Text/6408.html"/>
-    </navPoint>
-    <navPoint id="num_269" playOrder="269">
-      <navLabel>
-        <text>卷第二百六十五·唐紀八十一·昭宗聖穆景文孝皇帝下之下·昭宣光烈孝皇帝</text>
-      </navLabel>
-      <content src="Text/6409.html"/>
-    </navPoint>
-    <navPoint id="num_270" playOrder="270">
-      <navLabel>
-        <text>卷第二百六十六·後梁紀一·太祖神武元聖孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6410.html"/>
-    </navPoint>
-    <navPoint id="num_271" playOrder="271">
-      <navLabel>
-        <text>卷第二百六十七·後梁紀二·太祖神武元聖孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6411.html"/>
-    </navPoint>
-    <navPoint id="num_272" playOrder="272">
-      <navLabel>
-        <text>卷第二百六十八·後梁紀三·太祖神武元聖孝皇帝下·均王上</text>
-      </navLabel>
-      <content src="Text/6412.html"/>
-    </navPoint>
-    <navPoint id="num_273" playOrder="273">
-      <navLabel>
-        <text>卷第二百六十九·後梁紀四·均王上</text>
-      </navLabel>
-      <content src="Text/6413.html"/>
-    </navPoint>
-    <navPoint id="num_274" playOrder="274">
-      <navLabel>
-        <text>卷第二百七十·後梁紀五·均王中</text>
-      </navLabel>
-      <content src="Text/6414.html"/>
-    </navPoint>
-    <navPoint id="num_275" playOrder="275">
-      <navLabel>
-        <text>卷第二百七十一·後梁紀六·均王下</text>
-      </navLabel>
-      <content src="Text/6415.html"/>
-    </navPoint>
-    <navPoint id="num_276" playOrder="276">
-      <navLabel>
-        <text>卷第二百七十二·後唐紀一·莊宗光聖神閔孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6416.html"/>
-    </navPoint>
-    <navPoint id="num_277" playOrder="277">
-      <navLabel>
-        <text>卷第二百七十三·後唐紀二·莊宗光聖神閔孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6417.html"/>
-    </navPoint>
-    <navPoint id="num_278" playOrder="278">
-      <navLabel>
-        <text>卷第二百七十四·後唐紀三·莊宗光聖神閔孝皇帝下·明宗聖德和武欽孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6418.html"/>
-    </navPoint>
-    <navPoint id="num_279" playOrder="279">
-      <navLabel>
-        <text>卷第二百七十五·後唐紀四·明宗聖德和武欽孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6419.html"/>
-    </navPoint>
-    <navPoint id="num_280" playOrder="280">
-      <navLabel>
-        <text>卷第二百七十六·後唐紀五·明宗聖德和武欽孝皇帝中之上</text>
-      </navLabel>
-      <content src="Text/6420.html"/>
-    </navPoint>
-    <navPoint id="num_281" playOrder="281">
-      <navLabel>
-        <text>卷第二百七十七·後唐紀六·明宗聖德和武欽孝皇帝中之下</text>
-      </navLabel>
-      <content src="Text/6421.html"/>
-    </navPoint>
-    <navPoint id="num_282" playOrder="282">
-      <navLabel>
-        <text>卷第二百七十八·後唐紀七·明宗聖德和武欽孝皇帝下·潞王上</text>
-      </navLabel>
-      <content src="Text/6422.html"/>
-    </navPoint>
-    <navPoint id="num_283" playOrder="283">
-      <navLabel>
-        <text>卷第二百七十九·後唐紀八·潞王下</text>
-      </navLabel>
-      <content src="Text/6423.html"/>
-    </navPoint>
-    <navPoint id="num_284" playOrder="284">
-      <navLabel>
-        <text>卷第二百八十·後晉紀一·高祖聖文章武明德孝皇帝上之上</text>
-      </navLabel>
-      <content src="Text/6424.html"/>
-    </navPoint>
-    <navPoint id="num_285" playOrder="285">
-      <navLabel>
-        <text>卷第二百八十一·後晉紀二·高祖聖文章武明德孝皇帝上之下</text>
-      </navLabel>
-      <content src="Text/6425.html"/>
-    </navPoint>
-    <navPoint id="num_286" playOrder="286">
-      <navLabel>
-        <text>卷第二百八十二·後晉紀三·高祖聖文章武明德孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6426.html"/>
-    </navPoint>
-    <navPoint id="num_287" playOrder="287">
-      <navLabel>
-        <text>卷第二百八十三·後晉紀四·高祖聖文章武明德孝皇帝下·齊王上</text>
-      </navLabel>
-      <content src="Text/6427.html"/>
-    </navPoint>
-    <navPoint id="num_288" playOrder="288">
-      <navLabel>
-        <text>卷第二百八十四·後晉紀五·齊王中</text>
-      </navLabel>
-      <content src="Text/6428.html"/>
-    </navPoint>
-    <navPoint id="num_289" playOrder="289">
-      <navLabel>
-        <text>卷第二百八十五·後晉紀六·齊王下</text>
-      </navLabel>
-      <content src="Text/6429.html"/>
-    </navPoint>
-    <navPoint id="num_290" playOrder="290">
-      <navLabel>
-        <text>卷第二百八十六·後漢紀一·高祖睿文聖武昭肅孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6430.html"/>
-    </navPoint>
-    <navPoint id="num_291" playOrder="291">
-      <navLabel>
-        <text>卷第二百八十七·後漢紀二·高祖睿文聖武昭肅孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6431.html"/>
-    </navPoint>
-    <navPoint id="num_292" playOrder="292">
-      <navLabel>
-        <text>卷第二百八十八·後漢紀三·高祖睿文聖武昭肅孝皇帝下·隱皇帝上</text>
-      </navLabel>
-      <content src="Text/6432.html"/>
-    </navPoint>
-    <navPoint id="num_293" playOrder="293">
-      <navLabel>
-        <text>卷第二百八十九·後漢紀四·隱皇帝下</text>
-      </navLabel>
-      <content src="Text/6433.html"/>
-    </navPoint>
-    <navPoint id="num_294" playOrder="294">
-      <navLabel>
-        <text>卷第二百九十·後周紀一·太祖聖神恭肅文孝皇帝上</text>
-      </navLabel>
-      <content src="Text/6434.html"/>
-    </navPoint>
-    <navPoint id="num_295" playOrder="295">
-      <navLabel>
-        <text>卷第二百九十一·後周紀二·太祖聖神恭肅文武孝皇帝中</text>
-      </navLabel>
-      <content src="Text/6435.html"/>
-    </navPoint>
-    <navPoint id="num_296" playOrder="296">
-      <navLabel>
-        <text>卷第二百九十二·後周紀三·太祖聖神恭肅文武孝皇帝下·世宗睿武孝文皇帝上</text>
-      </navLabel>
-      <content src="Text/6436.html"/>
-    </navPoint>
-    <navPoint id="num_297" playOrder="297">
-      <navLabel>
-        <text>卷第二百九十三·後周紀四·世宗睿武孝文皇帝中</text>
-      </navLabel>
-      <content src="Text/6437.html"/>
-    </navPoint>
-    <navPoint id="num_298" playOrder="298">
-      <navLabel>
-        <text>卷第二百九十四·後周紀五·世宗睿武孝文皇帝下</text>
-      </navLabel>
-      <content src="Text/6438.html"/>
-    </navPoint>
-    <navPoint id="num_299" playOrder="299">
-      <navLabel>
-        <text>進書表</text>
-      </navLabel>
-      <content src="Text/6439.html"/>
-    </navPoint>
-    <navPoint id="num_300" playOrder="300">
-      <navLabel>
-        <text>獎諭詔書</text>
-      </navLabel>
-      <content src="Text/6441.html"/>
-    </navPoint>
-    <navPoint id="num_301" playOrder="301">
-      <navLabel>
-        <text>校勘人姓名</text>
-      </navLabel>
-      <content src="Text/6440.html"/>
-    </navPoint>
-    <navPoint id="num_302" playOrder="302">
-      <navLabel>
-        <text>重刊元本資治通鑑後序</text>
-      </navLabel>
-      <content src="Text/6444.html"/>
-    </navPoint>
-    <navPoint id="num_303" playOrder="303">
-      <navLabel>
-        <text>標點資治通鑑說明</text>
-      </navLabel>
-      <content src="Text/6446.html"/>
-    </navPoint>
-    <navPoint id="num_304" playOrder="304">
-      <navLabel>
-        <text>通鑑編年目次</text>
-      </navLabel>
-      <content src="Text/toc.1.html"/>
-    </navPoint>
-  </navMap>
-</ncx>
+<html>
+  <body>
+    <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+      <meta content="bba97d0d-0709-45a9-9636-335a0a414beb" name="dtb:uid"/>
+      <meta content="2" name="dtb:depth"/>
+      <meta content="calibre (6.1.0)" name="dtb:generator"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+      <doctitle>
+        <text>資治通鑑</text>
+      </doctitle>
+      <navmap>
+        <navpoint id="num_1" playorder="1">
+          <navlabel>
+            <text>胡刻通鑑正文校宋記述略</text>
+          </navlabel>
+          <content src="Text/6445.html"/>
+        </navpoint>
+        <navpoint id="num_2" playorder="2">
+          <navlabel>
+            <text>胡三省新注資治通鑑序</text>
+          </navlabel>
+          <content src="Text/5281.html"/>
+        </navpoint>
+        <navpoint id="num_3" playorder="3">
+          <navlabel>
+            <text>王磐興文署新刊資治通鑑序</text>
+          </navlabel>
+          <content src="Text/6443.html"/>
+        </navpoint>
+        <navpoint id="num_4" playorder="4">
+          <navlabel>
+            <text>宋神宗資治通鑑序</text>
+          </navlabel>
+          <content src="Text/6442.html"/>
+        </navpoint>
+        <navpoint id="num_5" playorder="5">
+          <navlabel>
+            <text>卷第一・周紀一・威烈王・安王・烈王</text>
+          </navlabel>
+          <content src="Text/5282.html"/>
+        </navpoint>
+        <navpoint id="num_6" playorder="6">
+          <navlabel>
+            <text>卷第二・周紀二・顯王</text>
+          </navlabel>
+          <content src="Text/5381.html"/>
+        </navpoint>
+        <navpoint id="num_7" playorder="7">
+          <navlabel>
+            <text>卷第三・周紀三・愼靚王・赧王上</text>
+          </navlabel>
+          <content src="Text/5382.html"/>
+        </navpoint>
+        <navpoint id="num_8" playorder="8">
+          <navlabel>
+            <text>卷第四・周紀四・赧王中</text>
+          </navlabel>
+          <content src="Text/5383.html"/>
+        </navpoint>
+        <navpoint id="num_9" playorder="9">
+          <navlabel>
+            <text>卷第五・周紀五・赧王下</text>
+          </navlabel>
+          <content src="Text/5384.html"/>
+        </navpoint>
+        <navpoint id="num_10" playorder="10">
+          <navlabel>
+            <text>卷第六・秦紀一・昭襄王・孝文王・莊襄王・始皇帝上</text>
+          </navlabel>
+          <content src="Text/5385.html"/>
+        </navpoint>
+        <navpoint id="num_11" playorder="11">
+          <navlabel>
+            <text>卷第七・秦紀二・始皇帝下・二世皇帝上</text>
+          </navlabel>
+          <content src="Text/5386.html"/>
+        </navpoint>
+        <navpoint id="num_12" playorder="12">
+          <navlabel>
+            <text>卷第八・秦紀三・二世皇帝下</text>
+          </navlabel>
+          <content src="Text/5387.html"/>
+        </navpoint>
+        <navpoint id="num_13" playorder="13">
+          <navlabel>
+            <text>卷第九・漢紀一・太祖高皇帝上之上</text>
+          </navlabel>
+          <content src="Text/5388.html"/>
+        </navpoint>
+        <navpoint id="num_14" playorder="14">
+          <navlabel>
+            <text>卷第一十・漢紀二・太祖高皇帝上之下</text>
+          </navlabel>
+          <content src="Text/5389.html"/>
+        </navpoint>
+        <navpoint id="num_15" playorder="15">
+          <navlabel>
+            <text>卷第十一・漢紀三・太祖高皇帝中</text>
+          </navlabel>
+          <content src="Text/5390.html"/>
+        </navpoint>
+        <navpoint id="num_16" playorder="16">
+          <navlabel>
+            <text>卷第十二・漢紀四・太祖高皇帝下・孝惠皇帝</text>
+          </navlabel>
+          <content src="Text/5391.html"/>
+        </navpoint>
+        <navpoint id="num_17" playorder="17">
+          <navlabel>
+            <text>卷第十三・漢紀五・高皇后・太宗孝文皇帝上</text>
+          </navlabel>
+          <content src="Text/5392.html"/>
+        </navpoint>
+        <navpoint id="num_18" playorder="18">
+          <navlabel>
+            <text>卷第十四・漢紀六・太宗孝文皇帝中</text>
+          </navlabel>
+          <content src="Text/5393.html"/>
+        </navpoint>
+        <navpoint id="num_19" playorder="19">
+          <navlabel>
+            <text>卷第十五・太宗孝文皇帝下・孝景皇帝上</text>
+          </navlabel>
+          <content src="Text/5394.html"/>
+        </navpoint>
+        <navpoint id="num_20" playorder="20">
+          <navlabel>
+            <text>卷第十六・漢紀八・孝景皇帝下</text>
+          </navlabel>
+          <content src="Text/5395.html"/>
+        </navpoint>
+        <navpoint id="num_21" playorder="21">
+          <navlabel>
+            <text>卷第十七・漢紀九・世宗孝武皇帝上之上</text>
+          </navlabel>
+          <content src="Text/5396.html"/>
+        </navpoint>
+        <navpoint id="num_22" playorder="22">
+          <navlabel>
+            <text>卷第十八・漢紀十・世宗孝武皇帝上之下</text>
+          </navlabel>
+          <content src="Text/5397.html"/>
+        </navpoint>
+        <navpoint id="num_23" playorder="23">
+          <navlabel>
+            <text>卷第十九・漢紀十一・世宗孝武皇帝中之上</text>
+          </navlabel>
+          <content src="Text/5398.html"/>
+        </navpoint>
+        <navpoint id="num_24" playorder="24">
+          <navlabel>
+            <text>卷第二十・漢紀十二・世宗孝武皇帝中之下</text>
+          </navlabel>
+          <content src="Text/5399.html"/>
+        </navpoint>
+        <navpoint id="num_25" playorder="25">
+          <navlabel>
+            <text>卷第二十一・漢紀十三・世宗孝武皇帝下之上</text>
+          </navlabel>
+          <content src="Text/5400.html"/>
+        </navpoint>
+        <navpoint id="num_26" playorder="26">
+          <navlabel>
+            <text>卷第二十二・漢紀十四・世宗孝武皇帝下之下</text>
+          </navlabel>
+          <content src="Text/5401.html"/>
+        </navpoint>
+        <navpoint id="num_27" playorder="27">
+          <navlabel>
+            <text>卷第二十三・漢紀十五・孝昭皇帝上</text>
+          </navlabel>
+          <content src="Text/5402.html"/>
+        </navpoint>
+        <navpoint id="num_28" playorder="28">
+          <navlabel>
+            <text>卷第二十四・漢紀十六・孝昭皇帝下・中宗孝宣皇帝上之上</text>
+          </navlabel>
+          <content src="Text/5403.html"/>
+        </navpoint>
+        <navpoint id="num_29" playorder="29">
+          <navlabel>
+            <text>卷第二十五・漢紀十七・中宗孝宣皇帝上之下</text>
+          </navlabel>
+          <content src="Text/5404.html"/>
+        </navpoint>
+        <navpoint id="num_30" playorder="30">
+          <navlabel>
+            <text>卷第二十六・漢紀十八・中宗孝宣皇帝中</text>
+          </navlabel>
+          <content src="Text/5405.html"/>
+        </navpoint>
+        <navpoint id="num_31" playorder="31">
+          <navlabel>
+            <text>卷第二十七・漢紀十九・中宗孝宣皇帝下</text>
+          </navlabel>
+          <content src="Text/5406.html"/>
+        </navpoint>
+        <navpoint id="num_32" playorder="32">
+          <navlabel>
+            <text>卷第二十八・漢紀二十・孝元皇帝上</text>
+          </navlabel>
+          <content src="Text/5407.html"/>
+        </navpoint>
+        <navpoint id="num_33" playorder="33">
+          <navlabel>
+            <text>卷第二十九・漢紀二十一・孝元皇帝下</text>
+          </navlabel>
+          <content src="Text/5408.html"/>
+        </navpoint>
+        <navpoint id="num_34" playorder="34">
+          <navlabel>
+            <text>卷第三十・漢紀二十二・孝成皇帝上之上</text>
+          </navlabel>
+          <content src="Text/5409.html"/>
+        </navpoint>
+        <navpoint id="num_35" playorder="35">
+          <navlabel>
+            <text>卷第三十一・漢紀二十三・孝成皇帝上之下</text>
+          </navlabel>
+          <content src="Text/5410.html"/>
+        </navpoint>
+        <navpoint id="num_36" playorder="36">
+          <navlabel>
+            <text>卷第三十二・漢紀二十四・孝成皇帝中</text>
+          </navlabel>
+          <content src="Text/5411.html"/>
+        </navpoint>
+        <navpoint id="num_37" playorder="37">
+          <navlabel>
+            <text>卷第三十三・漢紀二十五・孝成皇帝下・孝哀皇帝上</text>
+          </navlabel>
+          <content src="Text/5412.html"/>
+        </navpoint>
+        <navpoint id="num_38" playorder="38">
+          <navlabel>
+            <text>卷第三十四・漢紀二十六・孝哀皇帝中</text>
+          </navlabel>
+          <content src="Text/5413.html"/>
+        </navpoint>
+        <navpoint id="num_39" playorder="39">
+          <navlabel>
+            <text>卷第三十五・漢紀二十七・孝哀皇帝下・孝平皇帝上</text>
+          </navlabel>
+          <content src="Text/5414.html"/>
+        </navpoint>
+        <navpoint id="num_40" playorder="40">
+          <navlabel>
+            <text>卷第三十六・漢紀二十八・孝平皇帝下・王莽上</text>
+          </navlabel>
+          <content src="Text/5415.html"/>
+        </navpoint>
+        <navpoint id="num_41" playorder="41">
+          <navlabel>
+            <text>卷第三十七・漢紀二十九・王莽中</text>
+          </navlabel>
+          <content src="Text/5416.html"/>
+        </navpoint>
+        <navpoint id="num_42" playorder="42">
+          <navlabel>
+            <text>卷第三十八・漢紀三十・王莽下</text>
+          </navlabel>
+          <content src="Text/5417.html"/>
+        </navpoint>
+        <navpoint id="num_43" playorder="43">
+          <navlabel>
+            <text>卷第三十九・漢紀三十一・淮陽王</text>
+          </navlabel>
+          <content src="Text/5418.html"/>
+        </navpoint>
+        <navpoint id="num_44" playorder="44">
+          <navlabel>
+            <text>卷第四十・漢紀三十二・世祖光武皇帝上之上</text>
+          </navlabel>
+          <content src="Text/5419.html"/>
+        </navpoint>
+        <navpoint id="num_45" playorder="45">
+          <navlabel>
+            <text>卷第四十一・漢紀三十三・世祖光武皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6185.html"/>
+        </navpoint>
+        <navpoint id="num_46" playorder="46">
+          <navlabel>
+            <text>卷第四十二・漢紀三十四・世祖光武皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6186.html"/>
+        </navpoint>
+        <navpoint id="num_47" playorder="47">
+          <navlabel>
+            <text>卷第四十三・漢紀三十五・世祖光武皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6187.html"/>
+        </navpoint>
+        <navpoint id="num_48" playorder="48">
+          <navlabel>
+            <text>卷第四十四・漢紀三十六・世祖光武皇帝下・顯宗孝明皇帝上</text>
+          </navlabel>
+          <content src="Text/6188.html"/>
+        </navpoint>
+        <navpoint id="num_49" playorder="49">
+          <navlabel>
+            <text>卷第四十五・漢紀三十七・顯宗孝明皇帝下</text>
+          </navlabel>
+          <content src="Text/6189.html"/>
+        </navpoint>
+        <navpoint id="num_50" playorder="50">
+          <navlabel>
+            <text>卷第四十六・漢紀三十八・肅宗孝章皇帝上</text>
+          </navlabel>
+          <content src="Text/6190.html"/>
+        </navpoint>
+        <navpoint id="num_51" playorder="51">
+          <navlabel>
+            <text>卷第四十七・漢紀三十九・肅宗孝章皇帝下・孝和皇帝上</text>
+          </navlabel>
+          <content src="Text/6191.html"/>
+        </navpoint>
+        <navpoint id="num_52" playorder="52">
+          <navlabel>
+            <text>卷第四十八・漢紀四十・孝和皇帝下</text>
+          </navlabel>
+          <content src="Text/6192.html"/>
+        </navpoint>
+        <navpoint id="num_53" playorder="53">
+          <navlabel>
+            <text>卷第四十九・漢紀四十一・孝殤皇帝・孝安皇帝上</text>
+          </navlabel>
+          <content src="Text/6193.html"/>
+        </navpoint>
+        <navpoint id="num_54" playorder="54">
+          <navlabel>
+            <text>卷第五十・漢紀四十二・孝安皇帝中</text>
+          </navlabel>
+          <content src="Text/6194.html"/>
+        </navpoint>
+        <navpoint id="num_55" playorder="55">
+          <navlabel>
+            <text>卷第五十一・漢紀四十三・孝安皇帝下・孝順皇帝上</text>
+          </navlabel>
+          <content src="Text/6195.html"/>
+        </navpoint>
+        <navpoint id="num_56" playorder="56">
+          <navlabel>
+            <text>卷第五十二・漢紀四十四・孝順皇帝下・孝沖皇帝</text>
+          </navlabel>
+          <content src="Text/6196.html"/>
+        </navpoint>
+        <navpoint id="num_57" playorder="57">
+          <navlabel>
+            <text>卷第五十三・漢紀四十五・孝質皇帝・孝桓皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6197.html"/>
+        </navpoint>
+        <navpoint id="num_58" playorder="58">
+          <navlabel>
+            <text>卷第五十四・漢紀四十六・孝桓皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6198.html"/>
+        </navpoint>
+        <navpoint id="num_59" playorder="59">
+          <navlabel>
+            <text>卷第五十五・漢紀四十七・孝桓皇帝中</text>
+          </navlabel>
+          <content src="Text/6199.html"/>
+        </navpoint>
+        <navpoint id="num_60" playorder="60">
+          <navlabel>
+            <text>卷第五十六・漢紀四十八・孝桓皇帝下・孝靈皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6200.html"/>
+        </navpoint>
+        <navpoint id="num_61" playorder="61">
+          <navlabel>
+            <text>卷第五十七・漢紀四十九・孝靈皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6201.html"/>
+        </navpoint>
+        <navpoint id="num_62" playorder="62">
+          <navlabel>
+            <text>卷第五十八・漢紀五十・孝靈皇帝中</text>
+          </navlabel>
+          <content src="Text/6202.html"/>
+        </navpoint>
+        <navpoint id="num_63" playorder="63">
+          <navlabel>
+            <text>卷第五十九・漢紀五十一・孝靈皇帝下・孝獻皇帝甲</text>
+          </navlabel>
+          <content src="Text/6203.html"/>
+        </navpoint>
+        <navpoint id="num_64" playorder="64">
+          <navlabel>
+            <text>卷第六十・漢紀五十二・孝獻皇帝乙</text>
+          </navlabel>
+          <content src="Text/6204.html"/>
+        </navpoint>
+        <navpoint id="num_65" playorder="65">
+          <navlabel>
+            <text>卷第六十一・漢紀五十三・孝獻皇帝丙</text>
+          </navlabel>
+          <content src="Text/6205.html"/>
+        </navpoint>
+        <navpoint id="num_66" playorder="66">
+          <navlabel>
+            <text>卷第六十二・漢紀五十四・孝獻皇帝丁</text>
+          </navlabel>
+          <content src="Text/6206.html"/>
+        </navpoint>
+        <navpoint id="num_67" playorder="67">
+          <navlabel>
+            <text>卷第六十三・漢紀五十五・孝獻皇帝戊</text>
+          </navlabel>
+          <content src="Text/6207.html"/>
+        </navpoint>
+        <navpoint id="num_68" playorder="68">
+          <navlabel>
+            <text>卷第六十四・漢紀五十六・孝獻皇帝己</text>
+          </navlabel>
+          <content src="Text/6208.html"/>
+        </navpoint>
+        <navpoint id="num_69" playorder="69">
+          <navlabel>
+            <text>卷第六十五・漢紀五十七・孝獻皇帝庚</text>
+          </navlabel>
+          <content src="Text/6209.html"/>
+        </navpoint>
+        <navpoint id="num_70" playorder="70">
+          <navlabel>
+            <text>卷第六十六・漢紀五十八・孝獻皇帝辛</text>
+          </navlabel>
+          <content src="Text/6210.html"/>
+        </navpoint>
+        <navpoint id="num_71" playorder="71">
+          <navlabel>
+            <text>卷第六十七・漢紀五十九・孝獻皇帝壬</text>
+          </navlabel>
+          <content src="Text/6211.html"/>
+        </navpoint>
+        <navpoint id="num_72" playorder="72">
+          <navlabel>
+            <text>卷第六十八・漢紀六十・孝獻皇帝癸</text>
+          </navlabel>
+          <content src="Text/6212.html"/>
+        </navpoint>
+        <navpoint id="num_73" playorder="73">
+          <navlabel>
+            <text>卷第六十九・魏紀一・世祖文皇帝上</text>
+          </navlabel>
+          <content src="Text/6213.html"/>
+        </navpoint>
+        <navpoint id="num_74" playorder="74">
+          <navlabel>
+            <text>卷第七十・魏紀二・世祖文皇帝下・烈祖明皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6214.html"/>
+        </navpoint>
+        <navpoint id="num_75" playorder="75">
+          <navlabel>
+            <text>卷第七十一・魏紀三・烈祖明皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6215.html"/>
+        </navpoint>
+        <navpoint id="num_76" playorder="76">
+          <navlabel>
+            <text>卷第七十二・魏紀四・烈祖明皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6216.html"/>
+        </navpoint>
+        <navpoint id="num_77" playorder="77">
+          <navlabel>
+            <text>卷第七十三・魏紀五・烈祖明皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6217.html"/>
+        </navpoint>
+        <navpoint id="num_78" playorder="78">
+          <navlabel>
+            <text>卷第七十四・魏紀六・烈祖明皇帝下・邵陵厲公上</text>
+          </navlabel>
+          <content src="Text/6218.html"/>
+        </navpoint>
+        <navpoint id="num_79" playorder="79">
+          <navlabel>
+            <text>卷第七十五・魏紀七・邵陵厲公中</text>
+          </navlabel>
+          <content src="Text/6219.html"/>
+        </navpoint>
+        <navpoint id="num_80" playorder="80">
+          <navlabel>
+            <text>卷第七十六・魏紀八・邵陵厲公下・高貴鄕公上</text>
+          </navlabel>
+          <content src="Text/6220.html"/>
+        </navpoint>
+        <navpoint id="num_81" playorder="81">
+          <navlabel>
+            <text>卷第七十七・魏紀九・高貴鄕公下・元皇帝上</text>
+          </navlabel>
+          <content src="Text/6221.html"/>
+        </navpoint>
+        <navpoint id="num_82" playorder="82">
+          <navlabel>
+            <text>卷第七十八・魏紀十・元皇帝下</text>
+          </navlabel>
+          <content src="Text/6222.html"/>
+        </navpoint>
+        <navpoint id="num_83" playorder="83">
+          <navlabel>
+            <text>卷第七十九・晉紀一・世祖武皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6223.html"/>
+        </navpoint>
+        <navpoint id="num_84" playorder="84">
+          <navlabel>
+            <text>卷第八十・晉紀二・世祖武皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6224.html"/>
+        </navpoint>
+        <navpoint id="num_85" playorder="85">
+          <navlabel>
+            <text>卷第八十一・晉紀三・世祖武皇帝中</text>
+          </navlabel>
+          <content src="Text/6225.html"/>
+        </navpoint>
+        <navpoint id="num_86" playorder="86">
+          <navlabel>
+            <text>卷第八十二・晉紀四・世祖武皇帝下・孝惠皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6226.html"/>
+        </navpoint>
+        <navpoint id="num_87" playorder="87">
+          <navlabel>
+            <text>卷第八十三・晉紀五・孝惠皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6227.html"/>
+        </navpoint>
+        <navpoint id="num_88" playorder="88">
+          <navlabel>
+            <text>卷第八十四・晉紀六・孝惠皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6228.html"/>
+        </navpoint>
+        <navpoint id="num_89" playorder="89">
+          <navlabel>
+            <text>卷第八十五・晉紀七・孝惠皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6229.html"/>
+        </navpoint>
+        <navpoint id="num_90" playorder="90">
+          <navlabel>
+            <text>卷第八十六・晉紀八・孝惠皇帝下・孝懷皇帝上</text>
+          </navlabel>
+          <content src="Text/6230.html"/>
+        </navpoint>
+        <navpoint id="num_91" playorder="91">
+          <navlabel>
+            <text>卷第八十七・晉紀九・孝懷皇帝中</text>
+          </navlabel>
+          <content src="Text/6231.html"/>
+        </navpoint>
+        <navpoint id="num_92" playorder="92">
+          <navlabel>
+            <text>卷第八十八・晉紀十・孝懷皇帝下・孝愍皇帝上</text>
+          </navlabel>
+          <content src="Text/6232.html"/>
+        </navpoint>
+        <navpoint id="num_93" playorder="93">
+          <navlabel>
+            <text>卷第八十九・晉紀十一・孝愍皇帝下</text>
+          </navlabel>
+          <content src="Text/6233.html"/>
+        </navpoint>
+        <navpoint id="num_94" playorder="94">
+          <navlabel>
+            <text>卷第九十・晉紀十二・中宗元皇帝上</text>
+          </navlabel>
+          <content src="Text/6234.html"/>
+        </navpoint>
+        <navpoint id="num_95" playorder="95">
+          <navlabel>
+            <text>卷第九十一・晉紀十三・中宗元皇帝中</text>
+          </navlabel>
+          <content src="Text/6235.html"/>
+        </navpoint>
+        <navpoint id="num_96" playorder="96">
+          <navlabel>
+            <text>卷第九十二・晉紀十四・中宗元皇帝下・肅宗明皇帝上</text>
+          </navlabel>
+          <content src="Text/6236.html"/>
+        </navpoint>
+        <navpoint id="num_97" playorder="97">
+          <navlabel>
+            <text>卷第九十三・晉紀十五・肅宗明皇帝下・顯宗成皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6237.html"/>
+        </navpoint>
+        <navpoint id="num_98" playorder="98">
+          <navlabel>
+            <text>卷第九十四・晉紀十六・顯宗皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6238.html"/>
+        </navpoint>
+        <navpoint id="num_99" playorder="99">
+          <navlabel>
+            <text>卷第九十五・晉紀十七・顯宗成皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6239.html"/>
+        </navpoint>
+        <navpoint id="num_100" playorder="100">
+          <navlabel>
+            <text>卷第九十六・晉紀十八・顯宗成皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6240.html"/>
+        </navpoint>
+        <navpoint id="num_101" playorder="101">
+          <navlabel>
+            <text>卷第九十七・晉紀十九・顯宗成皇帝下・康皇帝・孝宗穆皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6241.html"/>
+        </navpoint>
+        <navpoint id="num_102" playorder="102">
+          <navlabel>
+            <text>卷第九十八・晉紀二十・孝宗穆皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6242.html"/>
+        </navpoint>
+        <navpoint id="num_103" playorder="103">
+          <navlabel>
+            <text>卷第九十九・晉紀二十一・孝宗穆皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6243.html"/>
+        </navpoint>
+        <navpoint id="num_104" playorder="104">
+          <navlabel>
+            <text>卷第一百・晉紀二十二・孝宗穆皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6244.html"/>
+        </navpoint>
+        <navpoint id="num_105" playorder="105">
+          <navlabel>
+            <text>卷第一百一・晉紀二十三・孝宗穆皇帝下・哀皇帝・海西公上</text>
+          </navlabel>
+          <content src="Text/6245.html"/>
+        </navpoint>
+        <navpoint id="num_106" playorder="106">
+          <navlabel>
+            <text>卷第一百二・晉紀二十四・海西公下</text>
+          </navlabel>
+          <content src="Text/6246.html"/>
+        </navpoint>
+        <navpoint id="num_107" playorder="107">
+          <navlabel>
+            <text>卷第一百三・晉紀二十五・太宗簡文皇帝・烈宗孝武皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6247.html"/>
+        </navpoint>
+        <navpoint id="num_108" playorder="108">
+          <navlabel>
+            <text>卷第一百四・晉紀二十六・烈宗孝武皇帝上之中</text>
+          </navlabel>
+          <content src="Text/6248.html"/>
+        </navpoint>
+        <navpoint id="num_109" playorder="109">
+          <navlabel>
+            <text>卷第一百五・晉紀二十七・烈宗孝武皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6249.html"/>
+        </navpoint>
+        <navpoint id="num_110" playorder="110">
+          <navlabel>
+            <text>卷第一百六・晉紀二十八・烈宗孝武皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6250.html"/>
+        </navpoint>
+        <navpoint id="num_111" playorder="111">
+          <navlabel>
+            <text>卷第一百七・晉紀二十九・烈宗孝武皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6251.html"/>
+        </navpoint>
+        <navpoint id="num_112" playorder="112">
+          <navlabel>
+            <text>卷第一百八・晉紀三十・烈宗孝武皇帝下</text>
+          </navlabel>
+          <content src="Text/6252.html"/>
+        </navpoint>
+        <navpoint id="num_113" playorder="113">
+          <navlabel>
+            <text>卷第一百九・晉紀三十一・安皇帝甲</text>
+          </navlabel>
+          <content src="Text/6253.html"/>
+        </navpoint>
+        <navpoint id="num_114" playorder="114">
+          <navlabel>
+            <text>卷第一百一十・晉紀三十二・安皇帝乙</text>
+          </navlabel>
+          <content src="Text/6254.html"/>
+        </navpoint>
+        <navpoint id="num_115" playorder="115">
+          <navlabel>
+            <text>第一百一十一・晉紀三十三・安皇帝丙</text>
+          </navlabel>
+          <content src="Text/6255.html"/>
+        </navpoint>
+        <navpoint id="num_116" playorder="116">
+          <navlabel>
+            <text>卷第一百一十二・晉紀三十四・安皇帝丁</text>
+          </navlabel>
+          <content src="Text/6256.html"/>
+        </navpoint>
+        <navpoint id="num_117" playorder="117">
+          <navlabel>
+            <text>卷第一百一十三・晉紀三十五・安皇帝戊</text>
+          </navlabel>
+          <content src="Text/6257.html"/>
+        </navpoint>
+        <navpoint id="num_118" playorder="118">
+          <navlabel>
+            <text>第一百一十四・晉紀三十六・安皇帝己</text>
+          </navlabel>
+          <content src="Text/6258.html"/>
+        </navpoint>
+        <navpoint id="num_119" playorder="119">
+          <navlabel>
+            <text>卷第一百一十五・晉紀三十七・安皇帝庚</text>
+          </navlabel>
+          <content src="Text/6259.html"/>
+        </navpoint>
+        <navpoint id="num_120" playorder="120">
+          <navlabel>
+            <text>卷第一百一十六・晉紀三十八・安皇帝辛</text>
+          </navlabel>
+          <content src="Text/6260.html"/>
+        </navpoint>
+        <navpoint id="num_121" playorder="121">
+          <navlabel>
+            <text>卷第一百一十七・晉紀三十九・安皇帝壬</text>
+          </navlabel>
+          <content src="Text/6261.html"/>
+        </navpoint>
+        <navpoint id="num_122" playorder="122">
+          <navlabel>
+            <text>卷第一百一十八・晉紀四十・安皇帝癸・恭皇帝</text>
+          </navlabel>
+          <content src="Text/6262.html"/>
+        </navpoint>
+        <navpoint id="num_123" playorder="123">
+          <navlabel>
+            <text>卷第一百一十九・宋紀一・高祖武皇帝・營陽王</text>
+          </navlabel>
+          <content src="Text/6263.html"/>
+        </navpoint>
+        <navpoint id="num_124" playorder="124">
+          <navlabel>
+            <text>卷第一百二十・宋紀二・太祖文皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6264.html"/>
+        </navpoint>
+        <navpoint id="num_125" playorder="125">
+          <navlabel>
+            <text>卷第一百二十一・宋紀三・太祖文皇帝上之中</text>
+          </navlabel>
+          <content src="Text/6265.html"/>
+        </navpoint>
+        <navpoint id="num_126" playorder="126">
+          <navlabel>
+            <text>卷第一百二十二・宋紀四・太祖文皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6266.html"/>
+        </navpoint>
+        <navpoint id="num_127" playorder="127">
+          <navlabel>
+            <text>卷第一百二十三・宋紀五・太祖文皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6267.html"/>
+        </navpoint>
+        <navpoint id="num_128" playorder="128">
+          <navlabel>
+            <text>卷第一百二十四・宋紀六・太祖文皇帝中之中</text>
+          </navlabel>
+          <content src="Text/6268.html"/>
+        </navpoint>
+        <navpoint id="num_129" playorder="129">
+          <navlabel>
+            <text>卷第一百二十五・宋紀七・太祖文皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6269.html"/>
+        </navpoint>
+        <navpoint id="num_130" playorder="130">
+          <navlabel>
+            <text>卷第一百二十六・宋紀八・太祖文皇帝下之上</text>
+          </navlabel>
+          <content src="Text/6270.html"/>
+        </navpoint>
+        <navpoint id="num_131" playorder="131">
+          <navlabel>
+            <text>卷第一百二十七・宋紀九・太祖文皇帝下之下</text>
+          </navlabel>
+          <content src="Text/6271.html"/>
+        </navpoint>
+        <navpoint id="num_132" playorder="132">
+          <navlabel>
+            <text>卷第一百二十八・宋紀十・世祖孝武皇帝上</text>
+          </navlabel>
+          <content src="Text/6272.html"/>
+        </navpoint>
+        <navpoint id="num_133" playorder="133">
+          <navlabel>
+            <text>卷第一百二十九・宋紀十一・世祖孝武皇帝下</text>
+          </navlabel>
+          <content src="Text/6273.html"/>
+        </navpoint>
+        <navpoint id="num_134" playorder="134">
+          <navlabel>
+            <text>卷第一百三十・宋紀十二・太宗明皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6274.html"/>
+        </navpoint>
+        <navpoint id="num_135" playorder="135">
+          <navlabel>
+            <text>卷第一百三十一・宋紀十三・太宗明皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6275.html"/>
+        </navpoint>
+        <navpoint id="num_136" playorder="136">
+          <navlabel>
+            <text>卷第一百三十二・宋紀十四・太宗明皇帝中</text>
+          </navlabel>
+          <content src="Text/6276.html"/>
+        </navpoint>
+        <navpoint id="num_137" playorder="137">
+          <navlabel>
+            <text>卷第一百三十三・宋紀十五・太宗明皇帝下・太宗明皇帝下</text>
+          </navlabel>
+          <content src="Text/6277.html"/>
+        </navpoint>
+        <navpoint id="num_138" playorder="138">
+          <navlabel>
+            <text>卷第一百三十四・宋紀十六・元徽四年・順皇帝</text>
+          </navlabel>
+          <content src="Text/6278.html"/>
+        </navpoint>
+        <navpoint id="num_139" playorder="139">
+          <navlabel>
+            <text>卷第一百三十五・齊紀一・太祖高皇帝・世祖武皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6279.html"/>
+        </navpoint>
+        <navpoint id="num_140" playorder="140">
+          <navlabel>
+            <text>卷第一百三十六・齊紀二・世祖武皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6280.html"/>
+        </navpoint>
+        <navpoint id="num_141" playorder="141">
+          <navlabel>
+            <text>卷第一百三十七・齊紀三・世祖武皇帝中</text>
+          </navlabel>
+          <content src="Text/6281.html"/>
+        </navpoint>
+        <navpoint id="num_142" playorder="142">
+          <navlabel>
+            <text>卷第一百三十八・齊紀四・世祖武皇帝下</text>
+          </navlabel>
+          <content src="Text/6282.html"/>
+        </navpoint>
+        <navpoint id="num_143" playorder="143">
+          <navlabel>
+            <text>卷第一百三十九・齊紀五・高宗明皇帝上</text>
+          </navlabel>
+          <content src="Text/6283.html"/>
+        </navpoint>
+        <navpoint id="num_144" playorder="144">
+          <navlabel>
+            <text>卷第一百四十・齊紀六・高宗明皇帝中</text>
+          </navlabel>
+          <content src="Text/6284.html"/>
+        </navpoint>
+        <navpoint id="num_145" playorder="145">
+          <navlabel>
+            <text>卷第一百四十一・齊紀七・高宗明皇帝下</text>
+          </navlabel>
+          <content src="Text/6285.html"/>
+        </navpoint>
+        <navpoint id="num_146" playorder="146">
+          <navlabel>
+            <text>卷第一百四十二・齊紀八・東昏侯上</text>
+          </navlabel>
+          <content src="Text/6286.html"/>
+        </navpoint>
+        <navpoint id="num_147" playorder="147">
+          <navlabel>
+            <text>卷第一百四十三・齊紀九・東昏侯下</text>
+          </navlabel>
+          <content src="Text/6287.html"/>
+        </navpoint>
+        <navpoint id="num_148" playorder="148">
+          <navlabel>
+            <text>卷第一百四十四・齊紀十・和皇帝</text>
+          </navlabel>
+          <content src="Text/6288.html"/>
+        </navpoint>
+        <navpoint id="num_149" playorder="149">
+          <navlabel>
+            <text>卷第一百四十五・梁紀一・高祖武皇帝</text>
+          </navlabel>
+          <content src="Text/6289.html"/>
+        </navpoint>
+        <navpoint id="num_150" playorder="150">
+          <navlabel>
+            <text>卷第一百四十六・梁紀二・高祖武皇帝二</text>
+          </navlabel>
+          <content src="Text/6290.html"/>
+        </navpoint>
+        <navpoint id="num_151" playorder="151">
+          <navlabel>
+            <text>卷第一百四十七・梁紀三・高祖武皇帝三</text>
+          </navlabel>
+          <content src="Text/6291.html"/>
+        </navpoint>
+        <navpoint id="num_152" playorder="152">
+          <navlabel>
+            <text>卷第一百四十八・梁紀四・高祖武皇帝四</text>
+          </navlabel>
+          <content src="Text/6292.html"/>
+        </navpoint>
+        <navpoint id="num_153" playorder="153">
+          <navlabel>
+            <text>卷第一百四十九・梁紀五・高祖武皇帝五</text>
+          </navlabel>
+          <content src="Text/6293.html"/>
+        </navpoint>
+        <navpoint id="num_154" playorder="154">
+          <navlabel>
+            <text>卷第一百五十・梁紀六・高祖武皇帝六</text>
+          </navlabel>
+          <content src="Text/6294.html"/>
+        </navpoint>
+        <navpoint id="num_155" playorder="155">
+          <navlabel>
+            <text>卷第一百五十一・梁紀七・高祖武皇帝七</text>
+          </navlabel>
+          <content src="Text/6295.html"/>
+        </navpoint>
+        <navpoint id="num_156" playorder="156">
+          <navlabel>
+            <text>卷第一百五十二・梁紀八・高祖武皇帝八</text>
+          </navlabel>
+          <content src="Text/6296.html"/>
+        </navpoint>
+        <navpoint id="num_157" playorder="157">
+          <navlabel>
+            <text>卷第一百五十三・梁紀九・高祖武皇帝九</text>
+          </navlabel>
+          <content src="Text/6297.html"/>
+        </navpoint>
+        <navpoint id="num_158" playorder="158">
+          <navlabel>
+            <text>卷第一百五十四・梁紀十・高祖武皇帝十</text>
+          </navlabel>
+          <content src="Text/6298.html"/>
+        </navpoint>
+        <navpoint id="num_159" playorder="159">
+          <navlabel>
+            <text>卷第一百五十五・梁紀十一・高祖武皇帝十一</text>
+          </navlabel>
+          <content src="Text/6299.html"/>
+        </navpoint>
+        <navpoint id="num_160" playorder="160">
+          <navlabel>
+            <text>卷第一百五十六・梁紀十二・高祖武皇帝十二</text>
+          </navlabel>
+          <content src="Text/6300.html"/>
+        </navpoint>
+        <navpoint id="num_161" playorder="161">
+          <navlabel>
+            <text>卷第一百五十七・梁紀十三・高祖武皇帝十三</text>
+          </navlabel>
+          <content src="Text/6301.html"/>
+        </navpoint>
+        <navpoint id="num_162" playorder="162">
+          <navlabel>
+            <text>卷第一百五十八・梁紀十四・高祖武皇帝十四</text>
+          </navlabel>
+          <content src="Text/6302.html"/>
+        </navpoint>
+        <navpoint id="num_163" playorder="163">
+          <navlabel>
+            <text>卷第一百五十九・梁紀十五・高祖武皇帝十五</text>
+          </navlabel>
+          <content src="Text/6303.html"/>
+        </navpoint>
+        <navpoint id="num_164" playorder="164">
+          <navlabel>
+            <text>卷第一百六十・梁紀十六・高祖武皇帝十六</text>
+          </navlabel>
+          <content src="Text/6304.html"/>
+        </navpoint>
+        <navpoint id="num_165" playorder="165">
+          <navlabel>
+            <text>卷第一百六十一・梁紀十七・高祖武皇帝十七</text>
+          </navlabel>
+          <content src="Text/6305.html"/>
+        </navpoint>
+        <navpoint id="num_166" playorder="166">
+          <navlabel>
+            <text>卷第一百六十二・梁紀十八・高祖武皇帝十八</text>
+          </navlabel>
+          <content src="Text/6306.html"/>
+        </navpoint>
+        <navpoint id="num_167" playorder="167">
+          <navlabel>
+            <text>卷第一百六十三・梁紀十九・太宗簡文皇帝上</text>
+          </navlabel>
+          <content src="Text/6307.html"/>
+        </navpoint>
+        <navpoint id="num_168" playorder="168">
+          <navlabel>
+            <text>卷第一百六十四・梁紀二十・太宗簡文皇帝下・世祖孝元皇帝上</text>
+          </navlabel>
+          <content src="Text/6308.html"/>
+        </navpoint>
+        <navpoint id="num_169" playorder="169">
+          <navlabel>
+            <text>卷第一百六十五・梁紀二十一・世祖孝元皇帝下</text>
+          </navlabel>
+          <content src="Text/6309.html"/>
+        </navpoint>
+        <navpoint id="num_170" playorder="170">
+          <navlabel>
+            <text>卷第一百六十六・梁紀二十二・敬皇帝</text>
+          </navlabel>
+          <content src="Text/6310.html"/>
+        </navpoint>
+        <navpoint id="num_171" playorder="171">
+          <navlabel>
+            <text>卷第一百六十七・陳紀一・高祖武皇帝</text>
+          </navlabel>
+          <content src="Text/6311.html"/>
+        </navpoint>
+        <navpoint id="num_172" playorder="172">
+          <navlabel>
+            <text>卷第一百六十八・陳紀二・世祖文皇帝上</text>
+          </navlabel>
+          <content src="Text/6312.html"/>
+        </navpoint>
+        <navpoint id="num_173" playorder="173">
+          <navlabel>
+            <text>卷第一百六十九・陳紀三・世祖文皇帝下</text>
+          </navlabel>
+          <content src="Text/6313.html"/>
+        </navpoint>
+        <navpoint id="num_174" playorder="174">
+          <navlabel>
+            <text>卷第一百七十・陳紀四・臨海王・高宗宣皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6314.html"/>
+        </navpoint>
+        <navpoint id="num_175" playorder="175">
+          <navlabel>
+            <text>卷第一百七十一・陳紀五・高宗宣皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6315.html"/>
+        </navpoint>
+        <navpoint id="num_176" playorder="176">
+          <navlabel>
+            <text>卷第一百七十二・陳紀六・高宗宣皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6316.html"/>
+        </navpoint>
+        <navpoint id="num_177" playorder="177">
+          <navlabel>
+            <text>卷第一百七十三・陳紀七・高宗宣皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6317.html"/>
+        </navpoint>
+        <navpoint id="num_178" playorder="178">
+          <navlabel>
+            <text>卷第一百七十四・陳紀八・高宗宣皇帝下之上</text>
+          </navlabel>
+          <content src="Text/6318.html"/>
+        </navpoint>
+        <navpoint id="num_179" playorder="179">
+          <navlabel>
+            <text>卷第一百七十五・陳紀九・高宗宣皇帝下之下・長城公上</text>
+          </navlabel>
+          <content src="Text/6319.html"/>
+        </navpoint>
+        <navpoint id="num_180" playorder="180">
+          <navlabel>
+            <text>卷第一百七十六・陳紀十・長城公下</text>
+          </navlabel>
+          <content src="Text/6320.html"/>
+        </navpoint>
+        <navpoint id="num_181" playorder="181">
+          <navlabel>
+            <text>卷第一百七十七・隋紀一・高祖文皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6321.html"/>
+        </navpoint>
+        <navpoint id="num_182" playorder="182">
+          <navlabel>
+            <text>卷第一百七十八・隋紀二・高祖文皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6322.html"/>
+        </navpoint>
+        <navpoint id="num_183" playorder="183">
+          <navlabel>
+            <text>卷第一百七十九・隋紀三・高祖文皇帝中</text>
+          </navlabel>
+          <content src="Text/6323.html"/>
+        </navpoint>
+        <navpoint id="num_184" playorder="184">
+          <navlabel>
+            <text>卷第一百八十・隋紀四・高祖文皇帝下・煬皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6324.html"/>
+        </navpoint>
+        <navpoint id="num_185" playorder="185">
+          <navlabel>
+            <text>卷第一百八十一・隋紀五・煬皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6325.html"/>
+        </navpoint>
+        <navpoint id="num_186" playorder="186">
+          <navlabel>
+            <text>卷第一百八十二・隋紀六・煬皇帝中</text>
+          </navlabel>
+          <content src="Text/6326.html"/>
+        </navpoint>
+        <navpoint id="num_187" playorder="187">
+          <navlabel>
+            <text>卷第一百八十三・隋紀七・煬皇帝下・恭皇帝上</text>
+          </navlabel>
+          <content src="Text/6327.html"/>
+        </navpoint>
+        <navpoint id="num_188" playorder="188">
+          <navlabel>
+            <text>卷第一百八十四・隋紀八・恭皇帝下</text>
+          </navlabel>
+          <content src="Text/6328.html"/>
+        </navpoint>
+        <navpoint id="num_189" playorder="189">
+          <navlabel>
+            <text>卷第一百八十五・唐紀一・高祖神堯大聖光孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6329.html"/>
+        </navpoint>
+        <navpoint id="num_190" playorder="190">
+          <navlabel>
+            <text>卷第一百八十六・唐紀二・高祖神堯大聖光孝皇帝上之中</text>
+          </navlabel>
+          <content src="Text/6330.html"/>
+        </navpoint>
+        <navpoint id="num_191" playorder="191">
+          <navlabel>
+            <text>卷第一百八十七・唐紀三・高祖神堯大聖光孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6331.html"/>
+        </navpoint>
+        <navpoint id="num_192" playorder="192">
+          <navlabel>
+            <text>卷第一百八十八・唐紀四・高祖神堯大聖光孝皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6332.html"/>
+        </navpoint>
+        <navpoint id="num_193" playorder="193">
+          <navlabel>
+            <text>卷第一百八十九・唐紀五・高祖神堯大聖光孝皇帝中之中</text>
+          </navlabel>
+          <content src="Text/6333.html"/>
+        </navpoint>
+        <navpoint id="num_194" playorder="194">
+          <navlabel>
+            <text>卷第一百九十・唐紀六・高祖神堯大聖光孝皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6334.html"/>
+        </navpoint>
+        <navpoint id="num_195" playorder="195">
+          <navlabel>
+            <text>卷第一百九十一・唐紀七・高祖神堯大聖光孝皇帝下之上</text>
+          </navlabel>
+          <content src="Text/6335.html"/>
+        </navpoint>
+        <navpoint id="num_196" playorder="196">
+          <navlabel>
+            <text>卷第一百九十二・唐紀八・高祖神堯大聖光孝皇帝下之下・太宗文武大聖大廣孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6336.html"/>
+        </navpoint>
+        <navpoint id="num_197" playorder="197">
+          <navlabel>
+            <text>卷第一百九十三・唐紀九・太宗文武大聖大廣孝皇帝上之中</text>
+          </navlabel>
+          <content src="Text/6337.html"/>
+        </navpoint>
+        <navpoint id="num_198" playorder="198">
+          <navlabel>
+            <text>卷第一百九十四・唐紀十・太宗文武大聖大廣孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6338.html"/>
+        </navpoint>
+        <navpoint id="num_199" playorder="199">
+          <navlabel>
+            <text>卷第一百九十五・唐紀十一・太宗文武大聖大廣孝皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6339.html"/>
+        </navpoint>
+        <navpoint id="num_200" playorder="200">
+          <navlabel>
+            <text>卷第一百九十六・唐紀十二・太宗文武大聖大廣孝皇帝中之中</text>
+          </navlabel>
+          <content src="Text/6340.html"/>
+        </navpoint>
+        <navpoint id="num_201" playorder="201">
+          <navlabel>
+            <text>卷第一百九十七・唐紀十三・太宗文武大聖大廣孝皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6341.html"/>
+        </navpoint>
+        <navpoint id="num_202" playorder="202">
+          <navlabel>
+            <text>卷第一百九十八・唐紀十四・太宗文武大聖大廣孝皇帝下之上</text>
+          </navlabel>
+          <content src="Text/6342.html"/>
+        </navpoint>
+        <navpoint id="num_203" playorder="203">
+          <navlabel>
+            <text>卷第一百九十九・唐紀十五・太宗文武大聖大廣孝皇帝下之下・高宗天皇大聖大弘孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6343.html"/>
+        </navpoint>
+        <navpoint id="num_204" playorder="204">
+          <navlabel>
+            <text>卷第二百・唐紀十六・高宗天皇大聖大弘孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6344.html"/>
+        </navpoint>
+        <navpoint id="num_205" playorder="205">
+          <navlabel>
+            <text>卷第二百一・唐紀十七・高宗天皇大聖大弘孝皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6345.html"/>
+        </navpoint>
+        <navpoint id="num_206" playorder="206">
+          <navlabel>
+            <text>卷第二百二・唐紀十八・高宗天皇大聖大弘孝皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6346.html"/>
+        </navpoint>
+        <navpoint id="num_207" playorder="207">
+          <navlabel>
+            <text>卷第二百三・唐紀十九・高宗天皇大聖大弘孝皇帝下・則天順聖皇后上之上</text>
+          </navlabel>
+          <content src="Text/6347.html"/>
+        </navpoint>
+        <navpoint id="num_208" playorder="208">
+          <navlabel>
+            <text>卷第二百四・唐紀二十・則天順聖皇后上之下</text>
+          </navlabel>
+          <content src="Text/6348.html"/>
+        </navpoint>
+        <navpoint id="num_209" playorder="209">
+          <navlabel>
+            <text>卷第二百五・唐紀二十一・則天順聖皇后中之上</text>
+          </navlabel>
+          <content src="Text/6349.html"/>
+        </navpoint>
+        <navpoint id="num_210" playorder="210">
+          <navlabel>
+            <text>卷第二百六・唐紀二十二・則天順聖皇后中之下</text>
+          </navlabel>
+          <content src="Text/6350.html"/>
+        </navpoint>
+        <navpoint id="num_211" playorder="211">
+          <navlabel>
+            <text>卷第二百七・唐紀二十三・則天順聖皇后下・中宗大和大聖大昭孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6351.html"/>
+        </navpoint>
+        <navpoint id="num_212" playorder="212">
+          <navlabel>
+            <text>卷第二百八・唐紀二十四・中宗大和大聖大昭孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6352.html"/>
+        </navpoint>
+        <navpoint id="num_213" playorder="213">
+          <navlabel>
+            <text>卷第二百九・唐紀二十五・中宗大和大聖大昭孝皇帝下・睿宗玄眞大聖大興孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6353.html"/>
+        </navpoint>
+        <navpoint id="num_214" playorder="214">
+          <navlabel>
+            <text>卷第二百一十・唐紀二十六・睿宗玄眞大聖大興孝皇帝下・玄宗至道大聖大明孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6354.html"/>
+        </navpoint>
+        <navpoint id="num_215" playorder="215">
+          <navlabel>
+            <text>卷第二百一十一・唐紀二十七・玄宗至道大聖大明孝皇帝上之中</text>
+          </navlabel>
+          <content src="Text/6355.html"/>
+        </navpoint>
+        <navpoint id="num_216" playorder="216">
+          <navlabel>
+            <text>卷第二百一十二・唐紀二十八・玄宗道大聖大明孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6356.html"/>
+        </navpoint>
+        <navpoint id="num_217" playorder="217">
+          <navlabel>
+            <text>卷第二百一十三・唐紀二十九・玄宗至道大聖大明孝皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6357.html"/>
+        </navpoint>
+        <navpoint id="num_218" playorder="218">
+          <navlabel>
+            <text>卷第二百一十四・唐紀三十・玄宗至道大聖大明孝皇帝中之中</text>
+          </navlabel>
+          <content src="Text/6358.html"/>
+        </navpoint>
+        <navpoint id="num_219" playorder="219">
+          <navlabel>
+            <text>卷第二百一十五・唐紀三十一・玄宗至道大聖大明孝皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6359.html"/>
+        </navpoint>
+        <navpoint id="num_220" playorder="220">
+          <navlabel>
+            <text>卷第二百一十六・唐紀三十二・玄宗至道大聖大明孝皇帝下之上</text>
+          </navlabel>
+          <content src="Text/6360.html"/>
+        </navpoint>
+        <navpoint id="num_221" playorder="221">
+          <navlabel>
+            <text>卷第二百一十七・唐紀三十三・玄宗至道大聖大明孝皇帝下之下・肅宗文明武德大聖大宣孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6361.html"/>
+        </navpoint>
+        <navpoint id="num_222" playorder="222">
+          <navlabel>
+            <text>卷第二百一十八・唐紀三十四・肅宗文明武德大聖大宣孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6362.html"/>
+        </navpoint>
+        <navpoint id="num_223" playorder="223">
+          <navlabel>
+            <text>卷第二百一十九・唐紀三十五・肅宗文明武德大聖大宣孝皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6363.html"/>
+        </navpoint>
+        <navpoint id="num_224" playorder="224">
+          <navlabel>
+            <text>卷第二百二十・唐紀三十六・肅宗文明武德大聖大宣孝宣皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6364.html"/>
+        </navpoint>
+        <navpoint id="num_225" playorder="225">
+          <navlabel>
+            <text>卷第二百二十一・唐紀三十七・肅宗文明武德大聖大宣孝皇帝下之上</text>
+          </navlabel>
+          <content src="Text/6365.html"/>
+        </navpoint>
+        <navpoint id="num_226" playorder="226">
+          <navlabel>
+            <text>卷第二百二十二・唐紀三十八・肅宗文明武德大聖大宣孝皇帝下之下・代宗睿文孝武皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6366.html"/>
+        </navpoint>
+        <navpoint id="num_227" playorder="227">
+          <navlabel>
+            <text>卷第二百二十三・唐紀三十九・代宗睿文孝武皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6367.html"/>
+        </navpoint>
+        <navpoint id="num_228" playorder="228">
+          <navlabel>
+            <text>卷第二百二十四・唐紀四十・代宗睿文孝武皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6368.html"/>
+        </navpoint>
+        <navpoint id="num_229" playorder="229">
+          <navlabel>
+            <text>卷第二百二十五・唐紀四十一・代宗睿文孝武皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6369.html"/>
+        </navpoint>
+        <navpoint id="num_230" playorder="230">
+          <navlabel>
+            <text>卷第二百二十六・唐紀四十二・代宗睿文孝武皇帝下・德宗神武孝文皇帝一</text>
+          </navlabel>
+          <content src="Text/6370.html"/>
+        </navpoint>
+        <navpoint id="num_231" playorder="231">
+          <navlabel>
+            <text>卷第二百二十七・唐紀四十三・德宗神武聖文皇帝二</text>
+          </navlabel>
+          <content src="Text/6371.html"/>
+        </navpoint>
+        <navpoint id="num_232" playorder="232">
+          <navlabel>
+            <text>卷第二百二十八・唐紀四十四・德宗神武聖文皇帝三</text>
+          </navlabel>
+          <content src="Text/6372.html"/>
+        </navpoint>
+        <navpoint id="num_233" playorder="233">
+          <navlabel>
+            <text>卷第二百二十九・唐紀四十五・德宗神武聖文皇帝四</text>
+          </navlabel>
+          <content src="Text/6373.html"/>
+        </navpoint>
+        <navpoint id="num_234" playorder="234">
+          <navlabel>
+            <text>卷第二百三十・唐紀四十六・德宗神武聖文皇帝五</text>
+          </navlabel>
+          <content src="Text/6374.html"/>
+        </navpoint>
+        <navpoint id="num_235" playorder="235">
+          <navlabel>
+            <text>卷第二百三十一・唐紀四十七・德宗神武聖文皇帝六</text>
+          </navlabel>
+          <content src="Text/6375.html"/>
+        </navpoint>
+        <navpoint id="num_236" playorder="236">
+          <navlabel>
+            <text>卷第二百三十二・唐紀四十八・德宗神武聖文皇帝七</text>
+          </navlabel>
+          <content src="Text/6376.html"/>
+        </navpoint>
+        <navpoint id="num_237" playorder="237">
+          <navlabel>
+            <text>卷第二百三十三・唐紀四十九・德宗神武聖文皇帝八</text>
+          </navlabel>
+          <content src="Text/6377.html"/>
+        </navpoint>
+        <navpoint id="num_238" playorder="238">
+          <navlabel>
+            <text>卷第二百三十四・唐紀五十・德宗神武聖文皇帝九</text>
+          </navlabel>
+          <content src="Text/6378.html"/>
+        </navpoint>
+        <navpoint id="num_239" playorder="239">
+          <navlabel>
+            <text>卷第二百三十五・唐紀五十一・德宗神武聖文皇帝十</text>
+          </navlabel>
+          <content src="Text/6379.html"/>
+        </navpoint>
+        <navpoint id="num_240" playorder="240">
+          <navlabel>
+            <text>卷第二百三十六・唐紀五十二・德宗神武聖文皇帝十一・順宗至德弘道大聖大安孝皇帝</text>
+          </navlabel>
+          <content src="Text/6380.html"/>
+        </navpoint>
+        <navpoint id="num_241" playorder="241">
+          <navlabel>
+            <text>卷第二百三十七・唐紀五十三・憲宗昭文章武大聖至神孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6381.html"/>
+        </navpoint>
+        <navpoint id="num_242" playorder="242">
+          <navlabel>
+            <text>卷第二百三十八・唐紀五十四・憲宗昭文章武大聖至神孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6382.html"/>
+        </navpoint>
+        <navpoint id="num_243" playorder="243">
+          <navlabel>
+            <text>卷第二百三十九・唐紀五十五・憲宗昭文章武大聖至神孝皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6383.html"/>
+        </navpoint>
+        <navpoint id="num_244" playorder="244">
+          <navlabel>
+            <text>卷第二百四十・唐紀五十六・憲宗昭文章武大聖至神孝皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6384.html"/>
+        </navpoint>
+        <navpoint id="num_245" playorder="245">
+          <navlabel>
+            <text>卷第二百四十一・唐紀五十七・憲宗昭文章武大聖至神孝皇帝下・穆宗睿聖文惠孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6385.html"/>
+        </navpoint>
+        <navpoint id="num_246" playorder="246">
+          <navlabel>
+            <text>卷第二百四十二・唐紀五十八・穆宗睿聖文惠孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6386.html"/>
+        </navpoint>
+        <navpoint id="num_247" playorder="247">
+          <navlabel>
+            <text>卷第二百四十三・唐紀五十九・穆宗睿聖文惠孝皇帝下・敬宗睿武昭愍孝皇帝・文宗元聖昭獻孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6387.html"/>
+        </navpoint>
+        <navpoint id="num_248" playorder="248">
+          <navlabel>
+            <text>卷第二百四十四・唐紀六十・文宗元聖昭獻孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6388.html"/>
+        </navpoint>
+        <navpoint id="num_249" playorder="249">
+          <navlabel>
+            <text>卷第二百四十五・唐紀六十一・文宗元聖昭獻孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6389.html"/>
+        </navpoint>
+        <navpoint id="num_250" playorder="250">
+          <navlabel>
+            <text>卷第二百四十六・唐紀六十二・文宗元聖昭獻孝皇帝下・武宗至道昭肅孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6390.html"/>
+        </navpoint>
+        <navpoint id="num_251" playorder="251">
+          <navlabel>
+            <text>卷第二百四十七・唐紀六十三・武宗至道昭肅孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6391.html"/>
+        </navpoint>
+        <navpoint id="num_252" playorder="252">
+          <navlabel>
+            <text>卷第二百四十八・唐紀六十四・武宗至道昭肅孝皇帝下・宣宗元聖至明成武獻文睿智章仁神聰懿道大孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6392.html"/>
+        </navpoint>
+        <navpoint id="num_253" playorder="253">
+          <navlabel>
+            <text>卷第二百四十九・唐紀六十五・宣宗元聖至明成武獻文睿智章仁神聰懿道大孝皇帝下</text>
+          </navlabel>
+          <content src="Text/6393.html"/>
+        </navpoint>
+        <navpoint id="num_254" playorder="254">
+          <navlabel>
+            <text>卷第二百五十・唐紀六十六・懿宗昭聖恭惠孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6394.html"/>
+        </navpoint>
+        <navpoint id="num_255" playorder="255">
+          <navlabel>
+            <text>卷第二百五十一・唐紀六十七・懿宗昭聖恭惠孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6395.html"/>
+        </navpoint>
+        <navpoint id="num_256" playorder="256">
+          <navlabel>
+            <text>卷第二百五十二・唐紀六十八・懿宗昭聖恭惠孝皇帝下・僖宗惠聖恭定孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6396.html"/>
+        </navpoint>
+        <navpoint id="num_257" playorder="257">
+          <navlabel>
+            <text>卷第二百五十三・唐紀六十九・僖宗惠聖恭定孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6397.html"/>
+        </navpoint>
+        <navpoint id="num_258" playorder="258">
+          <navlabel>
+            <text>卷第二百五十四・唐紀七十・僖宗惠聖恭定孝皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6398.html"/>
+        </navpoint>
+        <navpoint id="num_259" playorder="259">
+          <navlabel>
+            <text>卷第二百五十五・唐紀七十一・僖宗惠聖恭定孝皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6399.html"/>
+        </navpoint>
+        <navpoint id="num_260" playorder="260">
+          <navlabel>
+            <text>卷第二百五十六・唐紀七十二・僖宗惠聖恭定孝皇帝下之上</text>
+          </navlabel>
+          <content src="Text/6400.html"/>
+        </navpoint>
+        <navpoint id="num_261" playorder="261">
+          <navlabel>
+            <text>卷第二百五十七・唐紀七十三・僖宗惠聖恭定孝皇帝下之下</text>
+          </navlabel>
+          <content src="Text/6401.html"/>
+        </navpoint>
+        <navpoint id="num_262" playorder="262">
+          <navlabel>
+            <text>卷第二百五十八・唐紀七十四・昭宗聖穆景文孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6402.html"/>
+        </navpoint>
+        <navpoint id="num_263" playorder="263">
+          <navlabel>
+            <text>卷第二百五十九・唐紀七十五・昭宗聖穆景文孝皇帝上之中</text>
+          </navlabel>
+          <content src="Text/6403.html"/>
+        </navpoint>
+        <navpoint id="num_264" playorder="264">
+          <navlabel>
+            <text>卷第二百六十・唐紀七十六・昭宗聖穆景文孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6404.html"/>
+        </navpoint>
+        <navpoint id="num_265" playorder="265">
+          <navlabel>
+            <text>卷第二百六十一・唐紀七十七・昭宗聖穆景文孝皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6405.html"/>
+        </navpoint>
+        <navpoint id="num_266" playorder="266">
+          <navlabel>
+            <text>卷第二百六十二・唐紀七十八・昭宗聖穆景文孝皇帝中之中</text>
+          </navlabel>
+          <content src="Text/6406.html"/>
+        </navpoint>
+        <navpoint id="num_267" playorder="267">
+          <navlabel>
+            <text>卷第二百六十三・唐紀七十九・昭宗聖穆景文孝皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6407.html"/>
+        </navpoint>
+        <navpoint id="num_268" playorder="268">
+          <navlabel>
+            <text>卷第二百六十四・唐紀八十・昭宗聖穆景文孝皇帝下之上</text>
+          </navlabel>
+          <content src="Text/6408.html"/>
+        </navpoint>
+        <navpoint id="num_269" playorder="269">
+          <navlabel>
+            <text>卷第二百六十五・唐紀八十一・昭宗聖穆景文孝皇帝下之下・昭宣光烈孝皇帝</text>
+          </navlabel>
+          <content src="Text/6409.html"/>
+        </navpoint>
+        <navpoint id="num_270" playorder="270">
+          <navlabel>
+            <text>卷第二百六十六・後梁紀一・太祖神武元聖孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6410.html"/>
+        </navpoint>
+        <navpoint id="num_271" playorder="271">
+          <navlabel>
+            <text>卷第二百六十七・後梁紀二・太祖神武元聖孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6411.html"/>
+        </navpoint>
+        <navpoint id="num_272" playorder="272">
+          <navlabel>
+            <text>卷第二百六十八・後梁紀三・太祖神武元聖孝皇帝下・均王上</text>
+          </navlabel>
+          <content src="Text/6412.html"/>
+        </navpoint>
+        <navpoint id="num_273" playorder="273">
+          <navlabel>
+            <text>卷第二百六十九・後梁紀四・均王上</text>
+          </navlabel>
+          <content src="Text/6413.html"/>
+        </navpoint>
+        <navpoint id="num_274" playorder="274">
+          <navlabel>
+            <text>卷第二百七十・後梁紀五・均王中</text>
+          </navlabel>
+          <content src="Text/6414.html"/>
+        </navpoint>
+        <navpoint id="num_275" playorder="275">
+          <navlabel>
+            <text>卷第二百七十一・後梁紀六・均王下</text>
+          </navlabel>
+          <content src="Text/6415.html"/>
+        </navpoint>
+        <navpoint id="num_276" playorder="276">
+          <navlabel>
+            <text>卷第二百七十二・後唐紀一・莊宗光聖神閔孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6416.html"/>
+        </navpoint>
+        <navpoint id="num_277" playorder="277">
+          <navlabel>
+            <text>卷第二百七十三・後唐紀二・莊宗光聖神閔孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6417.html"/>
+        </navpoint>
+        <navpoint id="num_278" playorder="278">
+          <navlabel>
+            <text>卷第二百七十四・後唐紀三・莊宗光聖神閔孝皇帝下・明宗聖德和武欽孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6418.html"/>
+        </navpoint>
+        <navpoint id="num_279" playorder="279">
+          <navlabel>
+            <text>卷第二百七十五・後唐紀四・明宗聖德和武欽孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6419.html"/>
+        </navpoint>
+        <navpoint id="num_280" playorder="280">
+          <navlabel>
+            <text>卷第二百七十六・後唐紀五・明宗聖德和武欽孝皇帝中之上</text>
+          </navlabel>
+          <content src="Text/6420.html"/>
+        </navpoint>
+        <navpoint id="num_281" playorder="281">
+          <navlabel>
+            <text>卷第二百七十七・後唐紀六・明宗聖德和武欽孝皇帝中之下</text>
+          </navlabel>
+          <content src="Text/6421.html"/>
+        </navpoint>
+        <navpoint id="num_282" playorder="282">
+          <navlabel>
+            <text>卷第二百七十八・後唐紀七・明宗聖德和武欽孝皇帝下・潞王上</text>
+          </navlabel>
+          <content src="Text/6422.html"/>
+        </navpoint>
+        <navpoint id="num_283" playorder="283">
+          <navlabel>
+            <text>卷第二百七十九・後唐紀八・潞王下</text>
+          </navlabel>
+          <content src="Text/6423.html"/>
+        </navpoint>
+        <navpoint id="num_284" playorder="284">
+          <navlabel>
+            <text>卷第二百八十・後晉紀一・高祖聖文章武明德孝皇帝上之上</text>
+          </navlabel>
+          <content src="Text/6424.html"/>
+        </navpoint>
+        <navpoint id="num_285" playorder="285">
+          <navlabel>
+            <text>卷第二百八十一・後晉紀二・高祖聖文章武明德孝皇帝上之下</text>
+          </navlabel>
+          <content src="Text/6425.html"/>
+        </navpoint>
+        <navpoint id="num_286" playorder="286">
+          <navlabel>
+            <text>卷第二百八十二・後晉紀三・高祖聖文章武明德孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6426.html"/>
+        </navpoint>
+        <navpoint id="num_287" playorder="287">
+          <navlabel>
+            <text>卷第二百八十三・後晉紀四・高祖聖文章武明德孝皇帝下・齊王上</text>
+          </navlabel>
+          <content src="Text/6427.html"/>
+        </navpoint>
+        <navpoint id="num_288" playorder="288">
+          <navlabel>
+            <text>卷第二百八十四・後晉紀五・齊王中</text>
+          </navlabel>
+          <content src="Text/6428.html"/>
+        </navpoint>
+        <navpoint id="num_289" playorder="289">
+          <navlabel>
+            <text>卷第二百八十五・後晉紀六・齊王下</text>
+          </navlabel>
+          <content src="Text/6429.html"/>
+        </navpoint>
+        <navpoint id="num_290" playorder="290">
+          <navlabel>
+            <text>卷第二百八十六・後漢紀一・高祖睿文聖武昭肅孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6430.html"/>
+        </navpoint>
+        <navpoint id="num_291" playorder="291">
+          <navlabel>
+            <text>卷第二百八十七・後漢紀二・高祖睿文聖武昭肅孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6431.html"/>
+        </navpoint>
+        <navpoint id="num_292" playorder="292">
+          <navlabel>
+            <text>卷第二百八十八・後漢紀三・高祖睿文聖武昭肅孝皇帝下・隱皇帝上</text>
+          </navlabel>
+          <content src="Text/6432.html"/>
+        </navpoint>
+        <navpoint id="num_293" playorder="293">
+          <navlabel>
+            <text>卷第二百八十九・後漢紀四・隱皇帝下</text>
+          </navlabel>
+          <content src="Text/6433.html"/>
+        </navpoint>
+        <navpoint id="num_294" playorder="294">
+          <navlabel>
+            <text>卷第二百九十・後周紀一・太祖聖神恭肅文孝皇帝上</text>
+          </navlabel>
+          <content src="Text/6434.html"/>
+        </navpoint>
+        <navpoint id="num_295" playorder="295">
+          <navlabel>
+            <text>卷第二百九十一・後周紀二・太祖聖神恭肅文武孝皇帝中</text>
+          </navlabel>
+          <content src="Text/6435.html"/>
+        </navpoint>
+        <navpoint id="num_296" playorder="296">
+          <navlabel>
+            <text>卷第二百九十二・後周紀三・太祖聖神恭肅文武孝皇帝下・世宗睿武孝文皇帝上</text>
+          </navlabel>
+          <content src="Text/6436.html"/>
+        </navpoint>
+        <navpoint id="num_297" playorder="297">
+          <navlabel>
+            <text>卷第二百九十三・後周紀四・世宗睿武孝文皇帝中</text>
+          </navlabel>
+          <content src="Text/6437.html"/>
+        </navpoint>
+        <navpoint id="num_298" playorder="298">
+          <navlabel>
+            <text>卷第二百九十四・後周紀五・世宗睿武孝文皇帝下</text>
+          </navlabel>
+          <content src="Text/6438.html"/>
+        </navpoint>
+        <navpoint id="num_299" playorder="299">
+          <navlabel>
+            <text>進書表</text>
+          </navlabel>
+          <content src="Text/6439.html"/>
+        </navpoint>
+        <navpoint id="num_300" playorder="300">
+          <navlabel>
+            <text>獎諭詔書</text>
+          </navlabel>
+          <content src="Text/6441.html"/>
+        </navpoint>
+        <navpoint id="num_301" playorder="301">
+          <navlabel>
+            <text>校勘人姓名</text>
+          </navlabel>
+          <content src="Text/6440.html"/>
+        </navpoint>
+        <navpoint id="num_302" playorder="302">
+          <navlabel>
+            <text>重刊元本資治通鑑後序</text>
+          </navlabel>
+          <content src="Text/6444.html"/>
+        </navpoint>
+        <navpoint id="num_303" playorder="303">
+          <navlabel>
+            <text>標點資治通鑑說明</text>
+          </navlabel>
+          <content src="Text/6446.html"/>
+        </navpoint>
+        <navpoint id="num_304" playorder="304">
+          <navlabel>
+            <text>通鑑編年目次</text>
+          </navlabel>
+          <content src="Text/toc.1.html"/>
+        </navpoint>
+      </navmap>
+    </ncx>
+  </body>
+</html>
