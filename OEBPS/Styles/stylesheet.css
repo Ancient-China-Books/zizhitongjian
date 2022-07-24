@@ -118,3 +118,6 @@ table td {
   height: 15px;
   visibility: hidden;
 }
+.shu-ming {
+  text-decoration: currentColor wavy underline 1px;
+}
