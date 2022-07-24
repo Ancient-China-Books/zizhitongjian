@@ -37,6 +37,7 @@ span.yinwen {
   color: #795548;
   padding: 0 3px;
   border-radius: 3px;
+  -webkit-text-combine: horizontal;
 }
 .section {
   font-weight: bold;
