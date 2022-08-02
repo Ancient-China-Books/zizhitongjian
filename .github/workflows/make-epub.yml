@@ -43,3 +43,17 @@ jobs:
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
           args: copyto zizhitongjian-vst.epub gdrive:/Ancient-China-Books/資治通鑑-豎排.epub
+      - name: Sync to Onedrive
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto zizhitongjian.epub onedrive:/Ancient-China-Books/資治通鑑.epub
+      - name: Sync vst to Onedrive
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto zizhitongjian-vst.epub onedrive:/Ancient-China-Books/資治通鑑-豎排.epub
