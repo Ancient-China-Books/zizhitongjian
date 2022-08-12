@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="upKqla3JqGiEDyGDhdd9pp6">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>資治通鑑</dc:title>
     <dc:creator opf:role="aut" opf:file-as="編著, 司馬光 &amp; 音注, 胡三省 &amp; 校點, 標點資治通鑒小組">[宋] 司馬光 編著</dc:creator>
@@ -7,11 +7,13 @@
     <dc:creator opf:role="aut">標點資治通鑒小組 校點</dc:creator>
     <dc:contributor opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
     <dc:publisher>中华书局</dc:publisher>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">bba97d0d-0709-45a9-9636-335a0a414beb</dc:identifier>
     <dc:date>1956-05-31T16:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
-&lt;p&gt;《资治通鉴（全20册）》是一部集体编写的历史巨著，主编是司马光，协修是刘恕、刘攽和范祖禹，司马光的儿子司马康担任检阅文字的工作。司马光原欲定名为《通志》，神宗即位后，把《通志》改名为《资治通鉴》，意思是『鉴于往事，有资于治道』。《资治通鉴》上起周威烈王二十三年（前400年），下止五代后周显德六年（959年），共1362年的历史，分为294卷，共计300多万字；另外《目录》30卷，《考异》30卷。编成这部巨著共花了19年的时间。司马光是为了巩固当时的封建政权，才编写《资治通鉴》，这就决定了此书的内容主要是政治史。他把历史上的君主，根据他们的才能分为创业、守成、陵夷、中兴、乱亡五类。《资治通鉴》都作了一定程度的揭露和谴责，以为后世君主的鉴戒。《资治通鉴》还有许多很有价值的关于军事、经济、文化、学术思想、史学等方面的历史记载。《资治通鉴》所搜集的材料十分丰富，据估计，《资治通鉴》所引之书多达300多种。《资治通鉴》是我国一部极为重要的编年史，不仅为封建统治阶级提供了统治经验，同时也具有很高的史料价值。全书体例严谨，前后脉络分明，语言文字也极为简练。这些对后世史学都产生了极大的影响。&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;宋司馬光領銜編撰，神宗製序賜名，元胡三省注。二百九十四卷。以治平二年受詔撰，元豐七年書成奏上。修書分領，漢屬劉攽，三國至隋屬劉恕，唐迄五代屬范祖禹，各盡所長。體例編次，多出恕手，五代十國史料差誤最多，亦經恕整理，其功尤著。其書體裁爲編年史。上起戰國，下終五代，共一千三百六十二年，採用之書除十七史外，雜史多至三百三十二種。光又略舉事目，年經國緯，以備檢閲，别爲目錄三十卷。復攷證史料異同，説明去取之意，别爲考異三十卷。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;基於「東里書齋」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:date opf:event="modification">2022-06-10</dc:date>
+    <dc:identifier id="upKqla3JqGiEDyGDhdd9pp6" opf:scheme="uuid">upKqla3JqGiEDyGDhdd9pp6</dc:identifier>
     <dc:subject>司马光</dc:subject>
     <dc:subject>史书</dc:subject>
     <dc:subject>资治通鉴</dc:subject>
@@ -36,7 +38,7 @@
     <dc:subject>国学典藏</dc:subject>
     <dc:subject>選本</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">5ad75329-821d-4b74-9c01-fe083315e94d</dc:identifier>
+    <dc:identifier opf:scheme="calibre">c33c57cc-8085-434a-ac6d-9f8131cc1d02</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">1072295</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101001839</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
