@@ -341,7 +341,8 @@
     <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="Fonts/FSung-F.ttf" media-type="application/x-font-truetype"/>
-    <item id="noto" href="Fonts/NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
