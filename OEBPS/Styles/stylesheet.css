@@ -119,8 +119,8 @@ table td {
   visibility: hidden;
 }
 .shu-ming {
-  text-decoration: currentColor wavy underline;
-  text-decoration-thickness: 1px;
+  /*text-decoration: currentColor wavy underline;
+  text-decoration-thickness: 1px;*/
 }
 p:before{
   content: '';
