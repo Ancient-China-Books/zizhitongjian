@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="upKqla3JqGiEDyGDhdd9pp6">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>資治通鑑</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="司馬光 &amp; 胡三省">司馬光</dc:creator>
-    <dc:creator opf:role="aut">胡三省</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:creator opf:role="aut" opf:file-as="北宋·司馬光 &amp; 元·胡三省">北宋·司馬光</dc:creator>
+    <dc:creator opf:role="aut">元·胡三省</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
 &lt;p&gt;宋司馬光領銜編撰，神宗製序賜名，元胡三省注。二百九十四卷。以治平二年受詔撰，元豐七年書成奏上。修書分領，漢屬劉攽，三國至隋屬劉恕，唐迄五代屬范祖禹，各盡所長。體例編次，多出恕手，五代十國史料差誤最多，亦經恕整理，其功尤著。其書體裁爲編年史。上起戰國，下終五代，共一千三百六十二年，採用之書除十七史外，雜史多至三百三十二種。光又略舉事目，年經國緯，以備檢閲，别爲目錄三十卷。復考證史料異同，説明去取之意，别爲考異三十卷。&lt;/p&gt;
@@ -16,12 +16,12 @@
     <dc:subject>編年體通史</dc:subject>
     <dc:subject>資治通鑑</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">cd6f2e13-6976-462b-ae0e-cf2b796c6f00</dc:identifier>
+    <dc:identifier opf:scheme="calibre">64bdf394-3b8f-43ce-9d0b-d2325750fd73</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="資治通鑑" name="calibre:title_sort"/>
     <meta name="cover" content="cover"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;司馬光&quot;: &quot;&quot;, &quot;胡三省&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{&quot;北宋·司馬光&quot;: &quot;&quot;, &quot;元·胡三省&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta content="編年體通史" name="calibre:series"/>
     <meta content="1.0" name="calibre:series_index"/>
     <meta content="10.0" name="calibre:rating"/>
@@ -339,10 +339,10 @@
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="Fonts/FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
-    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
