@@ -9,13 +9,7 @@
   font-style: normal;
   font-stretch: normal;
 }
-@font-face {
-  src: url(../Fonts/biaodian.otf);
-  font-family: "biaodian";
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-}
+
 @font-face {
   src: local("FSung-2"), url(../Fonts/FSung-2.ttf);
   font-family: "FSung-2";
